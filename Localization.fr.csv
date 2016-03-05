@@ -110,13 +110,13 @@ SettingsBackgroundColorTooltip,Couleur de fond,Settings background color tooltip
 SettingsBackgroundOpacity,Transparence du fond,Settings background opacity label
 SettingsBackgroundOpacityTooltip,Transparence du fond,Settings background opacity tooltip
 SettingsBandwidthInAlert,Alerte Bande Passante entrante,Settings bandwidth in alert label
-SettingsBandwidthInAlertTooltip,Seuil en kbps ou kBps à laquelle la bande passante re‡u g‚nŠre une alerte. Mettez 0 pour d‚sactiver.,Settings bandwidth in alert tooltip
+SettingsBandwidthInAlertTooltip,Seuil en kbps ou kBps à laquelle la bande passante reçu génère une alerte. Mettez 0 pour désactiver.,Settings bandwidth in alert tooltip
 SettingsBandwidthOutAlert,Alerte Bande Passante sortante,Settings bandwidth out alert label
-SettingsBandwidthOutAlertTooltip,Seuil en kbps ou kBps à laquelle la bande passante envoy‚e g‚nŠre une alerte. Mettez 0 pour d‚sactiver.,Settings bandwidth out alert tooltip
+SettingsBandwidthOutAlertTooltip,Seuil en kbps ou kBps à laquelle la bande passante envoyée génère une alerte. Mettez 0 pour désactiver.,Settings bandwidth out alert tooltip
 SettingsClickThrough,Clic au travers,Settings click through label
-SettingsClickThroughTooltip,Permet de laisser passer les évenements de la souris au travers de la fenˆtre. Notez que cela permettra d'‚viter toute interaction avec la sidebar.,Settings click through tooltip
+SettingsClickThroughTooltip,Permet de laisser passer les évenements de la souris au travers de la fenêtre. Notez que cela permettra d'éviter toute interaction avec la sidebar.,Settings click through tooltip
 SettingsCollapseMenuBar,Déplier la Barre du Menu,Settings collapse menu bar label
-SettingsCollapseMenuBarTooltip,Supprime l'espace suppl‚mentaire en haut de la sibedar.,Settings collapse menu bar tooltip
+SettingsCollapseMenuBarTooltip,Supprime l'espace supplémentaire en haut de la sibedar.,Settings collapse menu bar tooltip
 SettingsCoreLoads,Afficher le chargement des cœurs,Settings core loads label
 SettingsCoreLoadsTooltip,Affiche la charge en pourcentage de tous les cœurs. ,Settings core loads tooltip
 SettingsCustomizeTab,Personnaliser,Title of the settings customize tab
