@@ -48,22 +48,22 @@ DriveWrite,Schreib Geschwindigkeit,Full name for drive write metric
 DriveWriteLabel,Schreiben,Short label for drive write metric
 ErrorPerformanceCounter,Your Performance Counter cache is corrupted. Click OK to visit the wiki and fix this error.,Text of the performance counter error
 ErrorTitle,Seitenleisten Fehler,Title of the error popup
-GPU,GPU,GPU monitor title
-GPUCoreClock,Core Clock,Full name for GPU core clock metric
-GPUCoreClockLabel,Core,Short label for RAM core clock metric
-GPUCoreLoad,Core Load,Full name for GPU core load metric
-GPUCoreLoadLabel,Core,Short label for GPU core load metric
-GPUFan,Fan Usage,Full name for GPU fan metric
-GPUFanLabel,Fan,Short label for GPU voltage metric
-GPUTemp,Temperature,Full name for GPU temp metric
+GPU,Grafikkarte,GPU monitor title
+GPUCoreClock,Grafikkarten Kern,Full name for GPU core clock metric
+GPUCoreClockLabel,Kern,Short label for RAM core clock metric
+GPUCoreLoad,Kern Auslastung,Full name for GPU core load metric
+GPUCoreLoadLabel,Kern,Short label for GPU core load metric
+GPUFan,Lüfter Auslastung,Full name for GPU fan metric
+GPUFanLabel,Lüfter,Short label for GPU voltage metric
+GPUTemp,Temperatur,Full name for GPU temp metric
 GPUTempLabel,Temp,Short label for GPU temp metric
-GPUVoltage,Voltage,Full name for GPU voltage metric
-GPUVoltageLabel,Voltage,Short label for GPU voltage metric
+GPUVoltage,Spannung,Full name for GPU voltage metric
+GPUVoltageLabel,Spannung,Short label for GPU voltage metric
 GPUVRAMClock,VRAM Takt,Full name for GPU VRAM clock metric
 GPUVRAMClockLabel,VRAM,Short label for GPU VRAM clock metric
 GPUVRAMLoad,VRAM Auslastung,Full name for GPU VRAM load metric
 GPUVRAMLoadLabel,VRAM,Short label for GPU VRAM load metric
-GraphConfigSectionTitle,Config,Title of the config section in the graph window
+GraphConfigSectionTitle,Konfiguration,Title of the config section in the graph window
 GraphDuration,Laufzeit,Graph config duration label
 GraphDurationMinute,Minute,Graph duration minute
 GraphDurationMinutes,Minuten,Graph duration minutes plural
@@ -194,7 +194,7 @@ SettingsUIScale,Bedienoberfläche Massstab,Settings UI scale label
 SettingsUIScaleTooltip,Massstab aller Fenster und Bedienoberflächen.,Settings UI scale tooltip
 SettingsUseBytesPerSecond,Vewendet Bytes pro Sekunde,Settings use bytes per second label
 SettingsUseBytesPerSecondTooltip,Zeigt Bandbreite in Bytes statt in Bits pro Sekunde.,Settings use bytes per second tooltip
-SettingsUsedSpaceAlert,Used Space Alert,Settings used space alert label
+SettingsUsedSpaceAlert,Benutzter Speicher Alarm,Settings used space alert label
 SettingsUsedSpaceAlertTooltip,Die prozentuale Schwellenwert Warnung bei verwendeten Speicherplatz. Verwenden Sie 0 um es zu deaktivieren.,Settings used space alert tooltip
 SettingsUseFahrenheit,Fahrenheit anwenden,Settings use fahrenheit label
 SettingsUseFahrenheitTooltip,Die Temperaturen für Sensoren und Alarme werden in Celsius anstelle von Fahrenheit angezeigt.,Settings use fahrenheit tooltip
