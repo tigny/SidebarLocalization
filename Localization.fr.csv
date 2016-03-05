@@ -213,7 +213,7 @@ SetupTitle,Configuration initiale,Title of the initial setup page
 Sidebar,Sidebar,Title of the sidebar window
 Time,Heure,Sidebar clock title
 UpdateErrorFatalText,Une erreur fatale est survenue lors de la tentative de mise à jour. La mise à jour automatique est maintenant désactivée.,Fatal text of the update error popup
-UpdateErrorText,Mise … jour impossible. Vérifiez votre connexion internet.,Text of the update error popup
+UpdateErrorText,Mise à jour impossible. Vérifiez votre connexion internet.,Text of the update error popup
 UpdateErrorTitle,Erreur de mise à jour.,Title of the update error popup
 UpdateSuccessText,Vous avez la dernière version,Text of the update success popup
 UpdateTitle,Mise à jour,Title of the update window
