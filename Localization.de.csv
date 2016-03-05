@@ -1,0 +1,73 @@
+!Property,!Text,!Note
+AppName,Sidebar Diagnostik,Name of the app
+Close,Schlie·en,Close app taskbar menu item
+CPU,CPU,CPU monitor title
+CPUClock,Takt,Full name for CPU clock metric
+CPUClockLabel,Takt,Short label for CPU clock metric
+CPUCoreClock,Core Clock,Full name for CPU core clock metric
+CPUCoreClockLabel,Kern,Short label for CPU core clock metric
+CPUCoreLoad,Core Load,Full name for CPU core load metric
+CPUCoreLoadLabel,Kern,Short label for CPU core load metric
+CPUFan,LÅfter,Full name for CPU fan metric
+CPUFanLabel,LÅfter,Short label for CPU fan metric
+CPULoad,Auslastung,Full name for CPU load metric
+CPULoadLabel,Auslastung,Short label for CPU load metric
+CPUTemp,Temperature,Full name for CPU temp metric
+CPUTempLabel,Temp,Short label for CPU temp metric
+CPUVoltage,Spannung,Full name for CPU voltage metric
+CPUVoltageLabel,Spannung,Short label for CPU voltage metric
+Donate,Spenden,Donate taskbar menu item
+DriveFree,Frei,Full name for drive free metric
+DriveFreeLabel,Frei,Short label for drive free metric
+DriveLoad,Auslastung,Full name for drive load metric
+DriveLoadBar,Load Bar,Full name for drive load bar metric
+DriveLoadBarLabel,Auslastung,Short label for drive load bar metric
+DriveLoadLabel,Auslastung,Short label for drive load metric
+DriveRead,Read Rate,Full name for drive read metric
+DriveReadLabel,Lesen,Short label for drive read metric
+Drives,Festplatten,Drives monitor title
+DriveUsed,Belegt,Full name for drive used metric
+DriveUsedLabel,Belegt,Short label for drive used metric
+DriveWrite,Write Rate,Full name for drive write metric
+DriveWriteLabel,Schreiben,Short label for drive write metric
+GitHub,GitHub,GitHub taskbar menu item
+GPU,Grafikkarte,GPU monitor title
+GPUCoreClock,Core Clock,Full name for GPU core clock metric
+GPUCoreClockLabel,Kern,Short label for RAM core clock metric
+GPUCoreLoad,Core Load,Full name for GPU core load metric
+GPUCoreLoadLabel,Kern,Short label for GPU core load metric
+GPUFan,LÅfter,Full name for GPU fan metric
+GPUFanLabel,LÅfter,Short label for GPU voltage metric
+GPUTemp,Temperature,Full name for GPU temp metric
+GPUTempLabel,Temp,Short label for GPU temp metric
+GPUVoltage,Spannung,Full name for GPU voltage metric
+GPUVoltageLabel,Spannung,Short label for GPU voltage metric
+GPUVRAMClock,VRAM Clock,Full name for GPU VRAM clock metric
+GPUVRAMClockLabel,VRAM,Short label for GPU VRAM clock metric
+GPUVRAMLoad,VRAM Load,Full name for GPU VRAM load metric
+GPUVRAMLoadLabel,VRAM,Short label for GPU VRAM load metric
+Graph,Graph,Graph taskbar menu item
+Hide,Verstecken,Hide taskbar menu item
+Network,Netzwerk,Network monitor title
+NetworkIn,Bandwidth In,Full name for network in metric
+NetworkInLabel,Ein,Short label for network in metric
+NetworkOut,Bandwidth Out,Full name for network out metric
+NetworkOutLabel,Aus,Short label for network out metric
+RAM,RAM,RAM monitor title
+RAMClock,Takt,Full name for RAM clock metric
+RAMClockLabel,Takt,Short label for RAM clock metric
+RAMFree,Frei,Full name for RAM free metric
+RAMFreeLabel,Frei,Short label for RAM free metric
+RAMLoad,Auslastung,Full name for RAM load metric
+RAMLoadLabel,Auslastung,Short label for RAM load metric
+RAMUsed,Belegt,Full name for RAM load metric
+RAMUsedLabel,Belegt,Short label for RAM used metric
+RAMVoltage,Spannung,Full name for RAM voltage metric
+RAMVoltageLabel,Spannung,Short label for RAM voltage metric
+Reload,Neuladen,Reload taskbar menu item
+Settings,Einstellungen,Settings taskbar menu item
+Show,Anzeigen,Show taskbar menu item
+Sidebar,Sidebar,Title of the sidebar window
+Time,Uhrzeit,Sidebar clock title
+Update,Update,Update taskbar menu item
+Visibility,Sichtbarkeit,Visibility taskbar menu item

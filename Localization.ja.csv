@@ -1,0 +1,73 @@
+!Property,!Text,!Note
+AppName,Sidebar Diagnostics,Name of the app
+Close,???,Close app taskbar menu item
+CPU,CPU,CPU monitor title
+CPUClock,??,Full name for CPU clock metric
+CPUClockLabel,??,Short label for CPU clock metric
+CPUCoreClock,Core Clock,Full name for CPU core clock metric
+CPUCoreClockLabel,??,Short label for CPU core clock metric
+CPUCoreLoad,Core Load,Full name for CPU core load metric
+CPUCoreLoadLabel,??,Short label for CPU core load metric
+CPUFan,Fan Usage,Full name for CPU fan metric
+CPUFanLabel,???,Short label for CPU fan metric
+CPULoad,??,Full name for CPU load metric
+CPULoadLabel,??,Short label for CPU load metric
+CPUTemp,??,Full name for CPU temp metric
+CPUTempLabel,??,Short label for CPU temp metric
+CPUVoltage,??,Full name for CPU voltage metric
+CPUVoltageLabel,??,Short label for CPU voltage metric
+Donate,????,Donate taskbar menu item
+DriveFree,???,Full name for drive free metric
+DriveFreeLabel,???,Short label for drive free metric
+DriveLoad,??,Full name for drive load metric
+DriveLoadBar,Load Bar,Full name for drive load bar metric
+DriveLoadBarLabel,??,Short label for drive load bar metric
+DriveLoadLabel,??,Short label for drive load metric
+DriveRead,????,Full name for drive read metric
+DriveReadLabel,????,Short label for drive read metric
+Drives,????,Drives monitor title
+DriveUsed,???,Full name for drive used metric
+DriveUsedLabel,???,Short label for drive used metric
+DriveWrite,????,Full name for drive write metric
+DriveWriteLabel,????,Short label for drive write metric
+GitHub,GitHub,GitHub taskbar menu item
+GPU,GPU,GPU monitor title
+GPUCoreClock,Core Clock,Full name for GPU core clock metric
+GPUCoreClockLabel,??,Short label for RAM core clock metric
+GPUCoreLoad,Core Load,Full name for GPU core load metric
+GPUCoreLoadLabel,??,Short label for GPU core load metric
+GPUFan,???,Full name for GPU fan metric
+GPUFanLabel,???,Short label for GPU voltage metric
+GPUTemp,??,Full name for GPU temp metric
+GPUTempLabel,??,Short label for GPU temp metric
+GPUVoltage,??,Full name for GPU voltage metric
+GPUVoltageLabel,??,Short label for GPU voltage metric
+GPUVRAMClock,VRAM Clock,Full name for GPU VRAM clock metric
+GPUVRAMClockLabel,V???,Short label for GPU VRAM clock metric
+GPUVRAMLoad,VRAM Load,Full name for GPU VRAM load metric
+GPUVRAMLoadLabel,V???,Short label for GPU VRAM load metric
+Graph,Graph,Graph taskbar menu item
+Hide,??,Hide taskbar menu item
+Network,??????,Network monitor title
+NetworkIn,???,Full name for network in metric
+NetworkInLabel,???,Short label for network in metric
+NetworkOut,???,Full name for network out metric
+NetworkOutLabel,???,Short label for network out metric
+RAM,???,RAM monitor title
+RAMClock,??,Full name for RAM clock metric
+RAMClockLabel,??,Short label for RAM clock metric
+RAMFree,???,Full name for RAM free metric
+RAMFreeLabel,???,Short label for RAM free metric
+RAMLoad,??,Full name for RAM load metric
+RAMLoadLabel,??,Short label for RAM load metric
+RAMUsed,???,Full name for RAM load metric
+RAMUsedLabel,???,Short label for RAM used metric
+RAMVoltage,??,Full name for RAM voltage metric
+RAMVoltageLabel,??,Short label for RAM voltage metric
+Reload,????,Reload taskbar menu item
+Settings,???,Settings taskbar menu item
+Show,???,Show taskbar menu item
+Sidebar,?????,Title of the sidebar window
+Time,??,Sidebar clock title
+Update,??????,Update taskbar menu item
+Visibility,???,Visibility taskbar menu item
