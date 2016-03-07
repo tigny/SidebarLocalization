@@ -1,6 +1,6 @@
 !Property,!Text,!Note
 AppName,Sidebar Diagnostik,Name of the app
-Close,Schlie·en,Close app taskbar menu item
+Close,Schlieﬂen,Close app taskbar menu item
 CPU,CPU,CPU monitor title
 CPUClock,Takt,Full name for CPU clock metric
 CPUClockLabel,Takt,Short label for CPU clock metric
@@ -8,8 +8,8 @@ CPUCoreClock,Core Clock,Full name for CPU core clock metric
 CPUCoreClockLabel,Kern,Short label for CPU core clock metric
 CPUCoreLoad,Core Load,Full name for CPU core load metric
 CPUCoreLoadLabel,Kern,Short label for CPU core load metric
-CPUFan,LÅfter,Full name for CPU fan metric
-CPUFanLabel,LÅfter,Short label for CPU fan metric
+CPUFan,L¸fter,Full name for CPU fan metric
+CPUFanLabel,L¸fter,Short label for CPU fan metric
 CPULoad,Auslastung,Full name for CPU load metric
 CPULoadLabel,Auslastung,Short label for CPU load metric
 CPUTemp,Temperature,Full name for CPU temp metric
@@ -36,8 +36,8 @@ GPUCoreClock,Core Clock,Full name for GPU core clock metric
 GPUCoreClockLabel,Kern,Short label for RAM core clock metric
 GPUCoreLoad,Core Load,Full name for GPU core load metric
 GPUCoreLoadLabel,Kern,Short label for GPU core load metric
-GPUFan,LÅfter,Full name for GPU fan metric
-GPUFanLabel,LÅfter,Short label for GPU voltage metric
+GPUFan,L¸fter,Full name for GPU fan metric
+GPUFanLabel,L¸fter,Short label for GPU voltage metric
 GPUTemp,Temperature,Full name for GPU temp metric
 GPUTempLabel,Temp,Short label for GPU temp metric
 GPUVoltage,Spannung,Full name for GPU voltage metric

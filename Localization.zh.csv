@@ -1,219 +1,219 @@
 !Property,!Text,!Note
 AppName,Sidebar Diagnostics,Name of the app
-ButtonApply,??,Text of the apply button
-ButtonCancel,??,Text of the cancel button
-ButtonClose,??,Text of the close button
-ButtonDonate,??,Text of the donate button
-ButtonDone,??,Text of the done button
+ButtonApply,应用,Text of the apply button
+ButtonCancel,取消,Text of the cancel button
+ButtonClose,关闭,Text of the close button
+ButtonDonate,捐赠,Text of the donate button
+ButtonDone,完成,Text of the done button
 ButtonGitHub,GitHub,Text of the GitHub button
-ButtonGraph,??,Text of the graph button
-ButtonHide,??,Text of the hide button
-ButtonNo,?,Text of the no button
-ButtonReload,??,Text of the reload button
-ButtonSave,??,Text of the save button
-ButtonSettings,??,Text of the settings button
-ButtonShow,??,Text of the show button
-ButtonSkip,??,Text of the skip button
-ButtonUpdate,??,Text of the update button
-ButtonVisibility,???,Text of the visibility button
-ButtonYes,?,Text of the yes button
-ChangeLogTitle,????,Title of the change log window
-CPU,????? (CPU),CPU monitor title
-CPUClock,????,Full name for CPU clock metric
-CPUClockLabel,??,Short label for CPU clock metric
-CPUCoreClock,????,Full name for CPU core clock metric
-CPUCoreClockLabel,????,Short label for CPU core clock metric
-CPUCoreLoad,????,Full name for CPU core load metric
-CPUCoreLoadLabel,????,Short label for CPU core load metric
-CPUFan,?????,Full name for CPU fan metric
-CPUFanLabel,??,Short label for CPU fan metric
-CPULoad,??,Full name for CPU load metric
-CPULoadLabel,??,Short label for CPU load metric
-CPUTemp,??,Full name for CPU temp metric
-CPUTempLabel,??,Short label for CPU temp metric
-CPUVoltage,??,Full name for CPU voltage metric
-CPUVoltageLabel,??,Short label for CPU voltage metric
-DriveFree,????,Full name for drive free metric
-DriveFreeLabel,??,Short label for drive free metric
-DriveLoad,???,Full name for drive load metric
-DriveLoadBar,??????,Full name for drive load bar metric
-DriveLoadBarLabel,???,Short label for drive load bar metric
-DriveLoadLabel,?????,Short label for drive load metric
-DriveRead,????,Full name for drive read metric
-DriveReadLabel,??,Short label for drive read metric
-Drives,??,Drives monitor title
-DriveUsed,??,Full name for drive used metric
-DriveUsedLabel,????,Short label for drive used metric
-DriveWrite,????,Full name for drive write metric
-DriveWriteLabel,??,Short label for drive write metric
-ErrorPerformanceCounter,???????????? ??????????????????,Text of the performance counter error
-ErrorTitle,??????,Title of the error popup
-GPU,????? (GPU),GPU monitor title
-GPUCoreClock,????,Full name for GPU core clock metric
-GPUCoreClockLabel,??,Short label for RAM core clock metric
-GPUCoreLoad,????,Full name for GPU core load metric
-GPUCoreLoadLabel,??,Short label for GPU core load metric
-GPUFan,?????,Full name for GPU fan metric
-GPUFanLabel,??,Short label for GPU voltage metric
-GPUTemp,??,Full name for GPU temp metric
-GPUTempLabel,??,Short label for GPU temp metric
-GPUVoltage,??,Full name for GPU voltage metric
-GPUVoltageLabel,??,Short label for GPU voltage metric
-GPUVRAMClock,?? (VRAM) ????,Full name for GPU VRAM clock metric
-GPUVRAMClockLabel,??,Short label for GPU VRAM clock metric
-GPUVRAMLoad,?? (VRAM) ??,Full name for GPU VRAM load metric
-GPUVRAMLoadLabel,????,Short label for GPU VRAM load metric
-GraphConfigSectionTitle,??,Title of the config section in the graph window
-GraphDuration,??,Graph config duration label
-GraphDurationMinute,??,Graph duration minute
-GraphDurationMinutes,??,Graph duration minutes plural
-GraphDurationSeconds,?,Graph duration seconds
-GraphHardware,??,Graph config hardware label
-GraphMetrics,??,Graph config metrics label
-GraphMonitor,???,Graph config monitor label
-GraphTitle,??,Title of the graph window
-LanguageChangedText,??????????????????,Text of the language changed popup
-LanguageChangedTitle,????,Title of the language changed popup
-Network,??,Network monitor title
-NetworkIn,????,Full name for network in metric
-NetworkInLabel,??,Short label for network in metric
-NetworkOut,????,Full name for network out metric
-NetworkOutLabel,??,Short label for network out metric
-RAM,?? (RAM),RAM monitor title
-RAMClock,??????,Full name for RAM clock metric
-RAMClockLabel,??,Short label for RAM clock metric
-RAMFree,??,Full name for RAM free metric
-RAMFreeLabel,????,Short label for RAM free metric
-RAMLoad,??,Full name for RAM load metric
-RAMLoadLabel,??,Short label for RAM load metric
-RAMUsed,??,Full name for RAM load metric
-RAMUsedLabel,????,Short label for RAM used metric
-RAMVoltage,??,Full name for RAM voltage metric
-RAMVoltageLabel,??,Short label for RAM voltage metric
-Settings24HourClock,24 ???,Settings 24 hour clock label
-Settings24HourClockTooltip,? 24 ????? 12 ??????????,Settings 24 hour clock tooltip
-SettingsAdvancedTab,??,Title of the settings advanced tab
-SettingsAlertFontColor,??????,Settings alert font color label
-SettingsAlertFontColorTooltip,????????????,Settings alert font color tooltip
-SettingsAllCoreClocks,??????,Settings all core clocks label
-SettingsAllCoreClocksTooltip,????????????,Settings all core clocks tooltip
-SettingsAltTab,??????????,Settings alt tab label
-SettingsAltTabTooltip,??????? (Alt+Tab) ??? Sidebar Diagnostics ????,Settings alt tab tooltip
-SettingsAlwaysOnTop,????,Settings always on top label
-SettingsAlwaysOnTopTooltip,????????????????,Settings always on top tooltip
-SettingsAutoBackground,?????,Settings auto background label
-SettingsAutoBackgroundTooltip,???????? Windows ?????,Settings auto background tooltip
-SettingsAutoUpdate,????,Settings auto update label
-SettingsAutoUpdateTooltip,???????????????,Settings auto update tooltip
-SettingsBackgroundColor,????,Settings background color label
-SettingsBackgroundColorTooltip,??????????????,Settings background color tooltip
-SettingsBackgroundOpacity,???,Settings background opacity label
-SettingsBackgroundOpacityTooltip,????????????,Settings background opacity tooltip
-SettingsBandwidthInAlert,????????,Settings bandwidth in alert label
-SettingsBandwidthInAlertTooltip,???????????????????? 0 ??????,Settings bandwidth in alert tooltip
-SettingsBandwidthOutAlert,????????,Settings bandwidth out alert label
-SettingsBandwidthOutAlertTooltip,???????????????????? 0 ??????,Settings bandwidth out alert tooltip
-SettingsClickThrough,????,Settings click through label
-SettingsClickThroughTooltip,????????????????????????????????,Settings click through tooltip
-SettingsCollapseMenuBar,????,Settings collapse menu bar label
-SettingsCollapseMenuBarTooltip,???????????,Settings collapse menu bar tooltip
-SettingsCoreLoads,??????,Settings core loads label
-SettingsCoreLoadsTooltip,????????????,Settings core loads tooltip
-SettingsCustomizeTab,???,Title of the settings customize tab
-SettingsDateFormat,????,Settings date format label
-SettingsDateFormatDisabled,?????,Settings date format disabled value
-SettingsDateFormatTooltip,????????????????????,Settings date format tooltip
-SettingsDock,??,Dock settings label
-SettingsDockBottom,??,Dock bottom settings label
-SettingsDockLeft,??,Dock left settings label
-SettingsDockRight,??,Dock right settings label
-SettingsDockTooltip,???????????????,Dock settings tooltip
-SettingsDockTop,??,Dock top settings label
-SettingsDriveDetailsTooltip,?????????????,Settings drive details tooltip
-SettingsFontColor,????,Settings font color label
-SettingsFontColorTooltip,??????????,Settings font color tooltip
-SettingsFontSize,????,Settings font size label
-SettingsFontSizeTooltip,??????????,Settings font size tooltip
-SettingsGeneralTab,??,Title of the settings general tab
-SettingsHardwareColumn1,??,Settings hardware data grid enabled column header
-SettingsHardwareColumn2,????,Settings hardware data grid hardware column header
-SettingsHardwareEnabledTooltip,?????????????????,Settings hardware enabled checkbox tooltip
-SettingsHardwareNameTooltip,????????????,Settings hardware name tooltip
-SettingsHorizontalOffset,????,Horizontal offset settings label
-SettingsHorizontalOffsetTooltip,?????????????,Horizontal offset settings tooltip
-SettingsHotkeyClose,??,Settings hotkey close label
-SettingsHotkeyCycleEdge,??????,Settings hotkey switch edge
-SettingsHotkeyCycleScreen,?????,Settings hotkey switch screen
-SettingsHotkeyHide,??,Settings hotkey hide label
-SettingsHotkeyReload,??,Settings hotkey reload label
-SettingsHotkeyShow,??,Settings hotkey show label
-SettingsHotkeysTab,???,Title of the settings hotkeys tab
-SettingsHotkeyToggle,??,Settings hotkey toggle label
-SettingsLanguage,??,Settings language label
-SettingsLanguageDefault,??,Settings language default label
-SettingsLanguageTooltip,???????????,Settings language tooltip
-SettingsMetrics,??,Settings metrics label with colon
-SettingsMetricsTooltip,?????????,Settings metrics tooltip
-SettingsMonitorEnabledTooltip,??????????????????????????,Settings monitor enabled checkbox tooltip
-SettingsMonitorsColumn1,??,Settings monitors data grid enabled column header
-SettingsMonitorsColumn2,???,Settings monitors data grid monitor column header
-SettingsMonitorsSubtitle1,???????????????,Settings monitors subtitle line one
-SettingsMonitorsSubtitle2,???????????,Settings monitors subtitle line two
-SettingsMonitorsTab,??,Title of the settings monitors tab
-SettingsPollingInterval,????,Settings polling interval label
-SettingsPollingIntervalTooltip,??????????????? (ms) ????,Settings polling interval tooltip
-SettingsReserveSpace,??????,Settings reserve space label
-SettingsReserveSpaceTooltip,???????????????????????????????,Settings reserve space tooltip
-SettingsRoundAllDecimals,????,Settings round all decimals label
-SettingsRoundAllDecimalsTooltip,???????????????,Settings round all decimals tooltip
-SettingsRunAtStartup,????,Settings run at startup label
-SettingsRunAtStartupTooltip,? Windows ????????,Settings run at startup tooltip
-SettingsScreen,???,Screen settings label
-SettingsScreenTooltip,??????????????,Screen settings tooltip
-SettingsShowClock,??????,Settings show clock label
-SettingsShowClockTooltip,?????????????,Settings show clock tooltip
-SettingsShowDriveDetails,????????,Settings show drive details label
-SettingsShowDriveIO,??????,Settings show drive IO label
-SettingsShowDriveIOTooltip,?????????????????,Settings show drive IO tooltip
-SettingsShowDriveSpace,??????,Settings show drive space label
-SettingsShowDriveSpaceTooltip,?????????????????????,Settings show drive space tooltip
-SettingsShowHardwareNames,??????,Settings show hardware names label
-SettingsShowHardwareNamesTooltip,????????????????,Settings show hardware names tooltip
-SettingsShowTrayIcon,???????,Settings show tray icon label
-SettingsShowTrayIconTooltip,??????????????????????????????,Settings show tray icon tooltip
-SettingsSidebarWidth,?????,Settings sidebar width label
-SettingsSidebarWidthTooltip,???????????????,Settings sidebar width tooltip
-SettingsTemperatureAlert,????,Settings temperature alert label
-SettingsTemperatureAlertTooltip,????????????? 0 ??????,Settings temperature alert tooltip
-SettingsTextAlign,????,Settings text align label
-SettingsTextAlignLeft,??,Settings text align left value
-SettingsTextAlignRight,??,Settings text align right value
-SettingsTextAlignTooltip,??????????,Settings text align tooltip
-SettingsTitle,?????,Title of the settings window
-SettingsUIScale,????,Settings UI scale label
-SettingsUIScaleTooltip,??????????????,Settings UI scale tooltip
-SettingsUseBytesPerSecond,???????,Settings use bytes per second label
-SettingsUseBytesPerSecondTooltip,??????? (Byte/second) ???????? (Bit/second) ???????,Settings use bytes per second tooltip
-SettingsUsedSpaceAlert,??????,Settings used space alert label
-SettingsUsedSpaceAlertTooltip,??????????????? 0 ??????,Settings used space alert tooltip
-SettingsUseFahrenheit,?????????,Settings use fahrenheit label
-SettingsUseFahrenheitTooltip,?????? (F) ??????? (C) ?????,Settings use fahrenheit tooltip
-SettingsUseGHz,?????,Settings use GHz label
-SettingsUseGHzTooltip,?????? (GHz) ??????? (MHz) ???????,Settings use GHz tooltip
-SettingsVerticalOffset,????,Vertical offset settings label
-SettingsVerticalOffsetTooltip,?????????????,Vertical Offset settings tooltip
-SetupCustomSubtitle,?????????????,Subtitle of the custom setup page
-SetupCustomTitle,?????,Title of the custom setup page
-SetupDoneSubtitle,????????????????????,Subtitle of the setup done page
-SetupDoneText,???????????????????????????????,Text of the setup done page
-SetupDoneTitle,??????,Title of the setup done page
-SetupSubtitle,?????????????????????,Subtitle of the initial setup page
-SetupText,???????????????????????,Text of the initial setup page
-SetupTitle,???,Title of the initial setup page
-Sidebar,???,Title of the sidebar window
-Time,?????,Sidebar clock title
-UpdateErrorFatalText,???????????? ???????????,Fatal text of the update error popup
-UpdateErrorText,???????????????????,Text of the update error popup
-UpdateErrorTitle,??????,Title of the update error popup
-UpdateSuccessText,????????,Text of the update success popup
-UpdateTitle,????,Title of the update window
+ButtonGraph,图表,Text of the graph button
+ButtonHide,隐藏,Text of the hide button
+ButtonNo,否,Text of the no button
+ButtonReload,刷新,Text of the reload button
+ButtonSave,保存,Text of the save button
+ButtonSettings,设置,Text of the settings button
+ButtonShow,显示,Text of the show button
+ButtonSkip,跳过,Text of the skip button
+ButtonUpdate,更新,Text of the update button
+ButtonVisibility,可见性,Text of the visibility button
+ButtonYes,是,Text of the yes button
+ChangeLogTitle,升级日志,Title of the change log window
+CPU,中央处理器 (CPU),CPU monitor title
+CPUClock,时钟频率,Full name for CPU clock metric
+CPUClockLabel,频率,Short label for CPU clock metric
+CPUCoreClock,核心频率,Full name for CPU core clock metric
+CPUCoreClockLabel,核心频率,Short label for CPU core clock metric
+CPUCoreLoad,核心负载,Full name for CPU core load metric
+CPUCoreLoadLabel,核心负载,Short label for CPU core load metric
+CPUFan,风扇使用率,Full name for CPU fan metric
+CPUFanLabel,风扇,Short label for CPU fan metric
+CPULoad,负载,Full name for CPU load metric
+CPULoadLabel,负载,Short label for CPU load metric
+CPUTemp,温度,Full name for CPU temp metric
+CPUTempLabel,温度,Short label for CPU temp metric
+CPUVoltage,电压,Full name for CPU voltage metric
+CPUVoltageLabel,电压,Short label for CPU voltage metric
+DriveFree,可用空间,Full name for drive free metric
+DriveFreeLabel,可用,Short label for drive free metric
+DriveLoad,使用率,Full name for drive load metric
+DriveLoadBar,使用率进度条,Full name for drive load bar metric
+DriveLoadBarLabel,使用率,Short label for drive load bar metric
+DriveLoadLabel,空间使用率,Short label for drive load metric
+DriveRead,读取速率,Full name for drive read metric
+DriveReadLabel,读取,Short label for drive read metric
+Drives,磁盘,Drives monitor title
+DriveUsed,已用,Full name for drive used metric
+DriveUsedLabel,已用空间,Short label for drive used metric
+DriveWrite,写入速率,Full name for drive write metric
+DriveWriteLabel,写入,Short label for drive write metric
+ErrorPerformanceCounter,性能统计缓存数据已损坏。 要查看如何修复此问题，请点击“好”。,Text of the performance counter error
+ErrorTitle,应用程序错误,Title of the error popup
+GPU,图形处理器 (GPU),GPU monitor title
+GPUCoreClock,时钟频率,Full name for GPU core clock metric
+GPUCoreClockLabel,频率,Short label for RAM core clock metric
+GPUCoreLoad,核心负载,Full name for GPU core load metric
+GPUCoreLoadLabel,负载,Short label for GPU core load metric
+GPUFan,风扇使用率,Full name for GPU fan metric
+GPUFanLabel,风扇,Short label for GPU voltage metric
+GPUTemp,温度,Full name for GPU temp metric
+GPUTempLabel,温度,Short label for GPU temp metric
+GPUVoltage,电压,Full name for GPU voltage metric
+GPUVoltageLabel,电压,Short label for GPU voltage metric
+GPUVRAMClock,显存 (VRAM) 时钟频率,Full name for GPU VRAM clock metric
+GPUVRAMClockLabel,显存,Short label for GPU VRAM clock metric
+GPUVRAMLoad,显存 (VRAM) 负载,Full name for GPU VRAM load metric
+GPUVRAMLoadLabel,显存负载,Short label for GPU VRAM load metric
+GraphConfigSectionTitle,设置,Title of the config section in the graph window
+GraphDuration,时间,Graph config duration label
+GraphDurationMinute,分钟,Graph duration minute
+GraphDurationMinutes,分钟,Graph duration minutes plural
+GraphDurationSeconds,秒,Graph duration seconds
+GraphHardware,硬件,Graph config hardware label
+GraphMetrics,项目,Graph config metrics label
+GraphMonitor,监视器,Graph config monitor label
+GraphTitle,图表,Title of the graph window
+LanguageChangedText,要应用新的语言设置，请重新运行程序。,Text of the language changed popup
+LanguageChangedTitle,更改语言,Title of the language changed popup
+Network,网络,Network monitor title
+NetworkIn,接收带宽,Full name for network in metric
+NetworkInLabel,接收,Short label for network in metric
+NetworkOut,发送带宽,Full name for network out metric
+NetworkOutLabel,发送,Short label for network out metric
+RAM,内存 (RAM),RAM monitor title
+RAMClock,内存时钟频率,Full name for RAM clock metric
+RAMClockLabel,频率,Short label for RAM clock metric
+RAMFree,可用,Full name for RAM free metric
+RAMFreeLabel,可用空间,Short label for RAM free metric
+RAMLoad,负载,Full name for RAM load metric
+RAMLoadLabel,负载,Short label for RAM load metric
+RAMUsed,已用,Full name for RAM load metric
+RAMUsedLabel,已用空间,Short label for RAM used metric
+RAMVoltage,电压,Full name for RAM voltage metric
+RAMVoltageLabel,电压,Short label for RAM voltage metric
+Settings24HourClock,24 小时制,Settings 24 hour clock label
+Settings24HourClockTooltip,以 24 小时制而非 12 小时制显示系统时间。,Settings 24 hour clock tooltip
+SettingsAdvancedTab,高级,Title of the settings advanced tab
+SettingsAlertFontColor,警告字体颜色,Settings alert font color label
+SettingsAlertFontColorTooltip,指定警告信息字体的颜色。,Settings alert font color tooltip
+SettingsAllCoreClocks,显示所有核心,Settings all core clocks label
+SettingsAllCoreClocksTooltip,分别显示每个核心的频率。,Settings all core clocks tooltip
+SettingsAltTab,在程序切换列表中显示,Settings alt tab label
+SettingsAltTabTooltip,在程序切换列表 (Alt+Tab) 中显示 Sidebar Diagnostics 的窗口。,Settings alt tab tooltip
+SettingsAlwaysOnTop,总在最前,Settings always on top label
+SettingsAlwaysOnTopTooltip,将侧边栏显示在所有其它窗口之上。,Settings always on top tooltip
+SettingsAutoBackground,自动背景色,Settings auto background label
+SettingsAutoBackgroundTooltip,侧边栏背景将使用 Windows 主题颜色。,Settings auto background tooltip
+SettingsAutoUpdate,自动升级,Settings auto update label
+SettingsAutoUpdateTooltip,自动下载并安装程序的最新版本。,Settings auto update tooltip
+SettingsBackgroundColor,背景颜色,Settings background color label
+SettingsBackgroundColorTooltip,手动设置侧边栏窗口的背景色。,Settings background color tooltip
+SettingsBackgroundOpacity,透明度,Settings background opacity label
+SettingsBackgroundOpacityTooltip,指定侧边栏窗口的透明度。,Settings background opacity tooltip
+SettingsBandwidthInAlert,带宽警告（接收）,Settings bandwidth in alert label
+SettingsBandwidthInAlertTooltip,指定接收数据的网络带宽警告触发条件，输入 0 将停用警告。,Settings bandwidth in alert tooltip
+SettingsBandwidthOutAlert,带宽警告（发送）,Settings bandwidth out alert label
+SettingsBandwidthOutAlertTooltip,指定发送数据的网络带宽警告触发条件，输入 0 将停用警告。,Settings bandwidth out alert tooltip
+SettingsClickThrough,传递点击,Settings click through label
+SettingsClickThroughTooltip,允许用户点击被侧边栏遮挡的项目。开启后将无法使用鼠标操作侧边栏。,Settings click through tooltip
+SettingsCollapseMenuBar,收起菜单,Settings collapse menu bar label
+SettingsCollapseMenuBarTooltip,移除侧边栏顶部的空白。,Settings collapse menu bar tooltip
+SettingsCoreLoads,显示核心负载,Settings core loads label
+SettingsCoreLoadsTooltip,分别显示每个核心的负载。,Settings core loads tooltip
+SettingsCustomizeTab,自定义,Title of the settings customize tab
+SettingsDateFormat,日期格式,Settings date format label
+SettingsDateFormatDisabled,不显示日期,Settings date format disabled value
+SettingsDateFormatTooltip,使用指定格式在系统时间下方显示当前日期。,Settings date format tooltip
+SettingsDock,位置,Dock settings label
+SettingsDockBottom,底部,Dock bottom settings label
+SettingsDockLeft,左侧,Dock left settings label
+SettingsDockRight,右侧,Dock right settings label
+SettingsDockTooltip,将侧边栏放置在屏幕的指定边界。,Dock settings tooltip
+SettingsDockTop,顶部,Dock top settings label
+SettingsDriveDetailsTooltip,将其它磁盘信息以文本显示。,Settings drive details tooltip
+SettingsFontColor,字体颜色,Settings font color label
+SettingsFontColorTooltip,指定默认字体的颜色。,Settings font color tooltip
+SettingsFontSize,字体大小,Settings font size label
+SettingsFontSizeTooltip,指定默认字体的大小。,Settings font size tooltip
+SettingsGeneralTab,通用,Title of the settings general tab
+SettingsHardwareColumn1,监视,Settings hardware data grid enabled column header
+SettingsHardwareColumn2,硬件列表,Settings hardware data grid hardware column header
+SettingsHardwareEnabledTooltip,是否监视此硬件的状态，双击以更改。,Settings hardware enabled checkbox tooltip
+SettingsHardwareNameTooltip,为此硬件指定自定义名称。,Settings hardware name tooltip
+SettingsHorizontalOffset,水平偏移,Horizontal offset settings label
+SettingsHorizontalOffsetTooltip,手动设置侧边栏左右偏移量。,Horizontal offset settings tooltip
+SettingsHotkeyClose,关闭,Settings hotkey close label
+SettingsHotkeyCycleEdge,切换屏幕边缘,Settings hotkey switch edge
+SettingsHotkeyCycleScreen,切换显示器,Settings hotkey switch screen
+SettingsHotkeyHide,隐藏,Settings hotkey hide label
+SettingsHotkeyReload,刷新,Settings hotkey reload label
+SettingsHotkeyShow,显示,Settings hotkey show label
+SettingsHotkeysTab,快捷键,Title of the settings hotkeys tab
+SettingsHotkeyToggle,开关,Settings hotkey toggle label
+SettingsLanguage,语言,Settings language label
+SettingsLanguageDefault,默认,Settings language default label
+SettingsLanguageTooltip,手动设置程序界面语言。,Settings language tooltip
+SettingsMetrics,项目,Settings metrics label with colon
+SettingsMetricsTooltip,指定硬件监视项目。,Settings metrics tooltip
+SettingsMonitorEnabledTooltip,是否监视此硬件类别。此开关控制同类别所有硬件监视器。,Settings monitor enabled checkbox tooltip
+SettingsMonitorsColumn1,监视,Settings monitors data grid enabled column header
+SettingsMonitorsColumn2,显示器,Settings monitors data grid monitor column header
+SettingsMonitorsSubtitle1,点击某一行来修改硬件监视设置。,Settings monitors subtitle line one
+SettingsMonitorsSubtitle2,拖拽某一行来重新排序。,Settings monitors subtitle line two
+SettingsMonitorsTab,监视,Title of the settings monitors tab
+SettingsPollingInterval,刷新频率,Settings polling interval label
+SettingsPollingIntervalTooltip,指定硬件数据的刷新频率，以毫秒 (ms) 为单位。,Settings polling interval tooltip
+SettingsReserveSpace,保留屏幕空间,Settings reserve space label
+SettingsReserveSpaceTooltip,强制占用与窗口大小一致的屏幕空间，不允许其它应用程序在此显示。,Settings reserve space tooltip
+SettingsRoundAllDecimals,保留整数,Settings round all decimals label
+SettingsRoundAllDecimalsTooltip,显示整数值，四舍五入小数部分。,Settings round all decimals tooltip
+SettingsRunAtStartup,自动运行,Settings run at startup label
+SettingsRunAtStartupTooltip,在 Windows 启动后自动运行。,Settings run at startup tooltip
+SettingsScreen,显示器,Screen settings label
+SettingsScreenTooltip,指定侧边栏窗口使用的显示器。,Screen settings tooltip
+SettingsShowClock,显示系统时间,Settings show clock label
+SettingsShowClockTooltip,在侧边栏顶部显示系统时间。,Settings show clock tooltip
+SettingsShowDriveDetails,显示磁盘详细信息,Settings show drive details label
+SettingsShowDriveIO,监视磁盘读写,Settings show drive IO label
+SettingsShowDriveIOTooltip,显示磁盘读取和写入速率等详细信息。,Settings show drive IO tooltip
+SettingsShowDriveSpace,监视磁盘空间,Settings show drive space label
+SettingsShowDriveSpaceTooltip,显示磁盘负载比、可用和已用空间等详细信息。,Settings show drive space tooltip
+SettingsShowHardwareNames,显示硬件名称,Settings show hardware names label
+SettingsShowHardwareNamesTooltip,显示详细的硬件名称而非硬件类别。,Settings show hardware names tooltip
+SettingsShowTrayIcon,显示任务栏图标,Settings show tray icon label
+SettingsShowTrayIconTooltip,在任务栏通知区域显示图标。某些情况下必须使用图标操作侧边栏。,Settings show tray icon tooltip
+SettingsSidebarWidth,侧边栏宽度,Settings sidebar width label
+SettingsSidebarWidthTooltip,指定侧边栏宽度，以像素为单位。,Settings sidebar width tooltip
+SettingsTemperatureAlert,温度警告,Settings temperature alert label
+SettingsTemperatureAlertTooltip,指定高温警告触发条件，输入 0 将停用警告。,Settings temperature alert tooltip
+SettingsTextAlign,文本对齐,Settings text align label
+SettingsTextAlignLeft,左侧,Settings text align left value
+SettingsTextAlignRight,右侧,Settings text align right value
+SettingsTextAlignTooltip,度量标准文本的对齐。,Settings text align tooltip
+SettingsTitle,侧边栏设置,Title of the settings window
+SettingsUIScale,界面缩放,Settings UI scale label
+SettingsUIScaleTooltip,手动设置所有界面的缩放比例。,Settings UI scale tooltip
+SettingsUseBytesPerSecond,替换比特为字节,Settings use bytes per second label
+SettingsUseBytesPerSecondTooltip,以“字节每秒” (Byte/second) 而非“比特每秒” (Bit/second) 显示网络带宽。,Settings use bytes per second tooltip
+SettingsUsedSpaceAlert,已用空间警告,Settings used space alert label
+SettingsUsedSpaceAlertTooltip,指定磁盘空间警告触发条件，输入 0 将停用警告。,Settings used space alert tooltip
+SettingsUseFahrenheit,替换摄氏度为华氏度,Settings use fahrenheit label
+SettingsUseFahrenheitTooltip,以“华氏度” (F) 而非“摄氏度” (C) 显示温度。,Settings use fahrenheit tooltip
+SettingsUseGHz,替换兆为吉,Settings use GHz label
+SettingsUseGHzTooltip,以“吉赫兹” (GHz) 而非“兆赫兹” (MHz) 显示时钟频率。,Settings use GHz tooltip
+SettingsVerticalOffset,垂直偏移,Vertical offset settings label
+SettingsVerticalOffsetTooltip,手动设置侧边栏上下偏移量。,Vertical Offset settings tooltip
+SetupCustomSubtitle,滑动滑块以指定侧边栏位置。,Subtitle of the custom setup page
+SetupCustomTitle,自定义位置,Title of the custom setup page
+SetupDoneSubtitle,如需自定义侧边栏界面，点击“设置”按钮。,Subtitle of the setup done page
+SetupDoneText,你也可以稍后通过点击侧边栏右上角齿轮按钮或任务栏图标进入设置。,Text of the setup done page
+SetupDoneTitle,初始化完成！,Title of the setup done page
+SetupSubtitle,此向导将确保侧边栏显示在屏幕上正确的位置。,Subtitle of the initial setup page
+SetupText,请确认侧边栏是否显示在主要显示器的屏幕最右侧？,Text of the initial setup page
+SetupTitle,初始化,Title of the initial setup page
+Sidebar,侧边栏,Title of the sidebar window
+Time,日期和时间,Sidebar clock title
+UpdateErrorFatalText,升级程序版本时出现错误。 自动升级已被暂时禁用。,Fatal text of the update error popup
+UpdateErrorText,无法升级至最新版本。请检查互联网连接。,Text of the update error popup
+UpdateErrorTitle,升级程序错误,Title of the update error popup
+UpdateSuccessText,已安装最新版本。,Text of the update success popup
+UpdateTitle,正在升级,Title of the update window
