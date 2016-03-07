@@ -180,7 +180,7 @@ SettingsShowDriveSpaceTooltip,Zeigt die Auslastung des Belegten Speicherplatzes 
 SettingsShowHardwareNames,Hardware Namen anzeigen,Settings show hardware names label
 SettingsShowHardwareNamesTooltip,Zeigt die Hardware Namen an.,Settings show hardware names tooltip
 SettingsShowTrayIcon,Tray-Icon Anzeige,Settings show tray icon label
-SettingsShowTrayIconTooltip,Zeigt das Tray-Icon in der Taskleiste, dies wird manchmal benötigt.,Settings show tray icon tooltip
+SettingsShowTrayIconTooltip,"Zeigt das Tray-Icon in der Taskleiste, dies wird manchmal benötigt.",Settings show tray icon tooltip
 SettingsSidebarWidth,Seitenleiste breite,Settings sidebar width label
 SettingsSidebarWidthTooltip,Breite der Seitenleiste in Pixel.,Settings sidebar width tooltip
 SettingsTemperatureAlert,Temperatur Warnung,Settings temperature alert label
