@@ -184,7 +184,7 @@ SettingsShowTrayIconTooltip,"Zeigt das Tray-Icon in der Taskleiste, dies wird ma
 SettingsSidebarWidth,Seitenleiste breite,Settings sidebar width label
 SettingsSidebarWidthTooltip,Breite der Seitenleiste in Pixel.,Settings sidebar width tooltip
 SettingsTemperatureAlert,Temperatur Warnung,Settings temperature alert label
-SettingsTemperatureAlertTooltip,The Temperaturschwelle, bei der Warnungen auftreten. Verwenden Sie 0 um es zu deaktivieren.,Settings temperature alert tooltip
+SettingsTemperatureAlertTooltip,"The Temperaturschwelle, bei der Warnungen auftreten. Verwenden Sie 0 um es zu deaktivieren.",Settings temperature alert tooltip
 SettingsTextAlign,Text Ausrichtung,Settings text align label
 SettingsTextAlignLeft,Links,Settings text align left value
 SettingsTextAlignRight,Rechts,Settings text align right value
