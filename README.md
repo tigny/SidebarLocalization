@@ -1,5 +1,5 @@
 # Sidebar Localization
-Localization for Sidebar Diagnostics.
+Localization for [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics).
 
 ## How To
 
