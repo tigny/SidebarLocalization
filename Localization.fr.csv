@@ -4,32 +4,32 @@ ButtonApply,Appliquer,Text of the apply button
 ButtonCancel,Annuler,Text of the cancel button
 ButtonClose,Fermer,Text of the close button
 ButtonDonate,Faire un don,Text of the donate button
-ButtonDone,TerminÇ,Text of the done button
+ButtonDone,Termin√©,Text of the done button
 ButtonGitHub,GitHub,Text of the GitHub button
 ButtonGraph,Graph,Text of the graph button
 ButtonHide,Cacher,Text of the hide button
 ButtonNo,Non,Text of the no button
 ButtonReload,Recharger,Text of the reload button
 ButtonSave,Sauvegarder,Text of the save button
-ButtonSettings,RÇglages,Text of the settings button
+ButtonSettings,R√©glages,Text of the settings button
 ButtonShow,Montrer,Text of the show button
 ButtonSkip,Sauter,Text of the skip button
-ButtonUpdate,Mise Ö jour,Text of the update button
-ButtonVisibility,VisibilitÇ,Text of the visibility button
+ButtonUpdate,Mise √† jour,Text of the update button
+ButtonVisibility,Visibilit√©,Text of the visibility button
 ButtonYes,Oui,Text of the yes button
-ChangeLogTitle,Notes de mise Ö jour,Title of the change log window
+ChangeLogTitle,Notes de mise √† jour,Title of the change log window
 CPU,CPU,CPU monitor title
-CPUClock,FrÇquence,Full name for CPU clock metric
-CPUClockLabel,FrÇquence,Short label for CPU clock metric
-CPUCoreClock,FrÇquence du c?ur,Full name for CPU core clock metric
-CPUCoreClockLabel,C?ur,Short label for CPU core clock metric
-CPUCoreLoad,Chargement du c?ur,Full name for CPU core load metric
-CPUCoreLoadLabel,C?ur,Short label for CPU core load metric
+CPUClock,Fr√©quence,Full name for CPU clock metric
+CPUClockLabel,Fr√©quence,Short label for CPU clock metric
+CPUCoreClock,Fr√©quence du c≈ìur,Full name for CPU core clock metric
+CPUCoreClockLabel,C≈ìur,Short label for CPU core clock metric
+CPUCoreLoad,Chargement du c≈ìur,Full name for CPU core load metric
+CPUCoreLoadLabel,C≈ìur,Short label for CPU core load metric
 CPUFan,Utilisation ventilateur,Full name for CPU fan metric
 CPUFanLabel,Ventilateur,Short label for CPU fan metric
 CPULoad,Chargement,Full name for CPU load metric
 CPULoadLabel,Chargement,Short label for CPU load metric
-CPUTemp,TempÇrature,Full name for CPU temp metric
+CPUTemp,Temp√©rature,Full name for CPU temp metric
 CPUTempLabel,Temp,Short label for CPU temp metric
 CPUVoltage,Voltage,Full name for CPU voltage metric
 CPUVoltageLabel,Voltage,Short label for CPU voltage metric
@@ -42,178 +42,178 @@ DriveLoadLabel,Charge,Short label for drive load metric
 DriveRead,Vitesse de lecture,Full name for drive read metric
 DriveReadLabel,Lectures,Short label for drive read metric
 Drives,Disques Durs,Drives monitor title
-DriveUsed,UtilisÇ,Full name for drive used metric
-DriveUsedLabel,UtilisÇ,Short label for drive used metric
-DriveWrite,Vitesse d'Çcriture,Full name for drive write metric
+DriveUsed,Utilis√©,Full name for drive used metric
+DriveUsedLabel,Utilis√©,Short label for drive used metric
+DriveWrite,Vitesse d'√©criture,Full name for drive write metric
 DriveWriteLabel,Ecriture,Short label for drive write metric
 ErrorPerformanceCounter,Your Performance Counter cache is corrupted. Click OK to visit the wiki and fix this error.,Text of the performance counter error
 ErrorTitle,Erreur de la Sidebar,Title of the error popup
 GPU,GPU,GPU monitor title
-GPUCoreClock,FrÇquence du c?ur,Full name for GPU core clock metric
-GPUCoreClockLabel,C?ur,Short label for RAM core clock metric
-GPUCoreLoad,Chargement du c?ur,Full name for GPU core load metric
-GPUCoreLoadLabel,C?ur,Short label for GPU core load metric
+GPUCoreClock,Fr√©quence du c≈ìur,Full name for GPU core clock metric
+GPUCoreClockLabel,C≈ìur,Short label for RAM core clock metric
+GPUCoreLoad,Chargement du c≈ìur,Full name for GPU core load metric
+GPUCoreLoadLabel,C≈ìur,Short label for GPU core load metric
 GPUFan,Utilisation ventilateur,Full name for GPU fan metric
 GPUFanLabel,Ventilateur,Short label for GPU voltage metric
-GPUTemp,TempÇrature,Full name for GPU temp metric
+GPUTemp,Temp√©rature,Full name for GPU temp metric
 GPUTempLabel,Temp,Short label for GPU temp metric
 GPUVoltage,Voltage,Full name for GPU voltage metric
 GPUVoltageLabel,Voltage,Short label for GPU voltage metric
-GPUVRAMClock,FrÇquence VRAM,Full name for GPU VRAM clock metric
+GPUVRAMClock,Fr√©quence VRAM,Full name for GPU VRAM clock metric
 GPUVRAMClockLabel,VRAM,Short label for GPU VRAM clock metric
 GPUVRAMLoad,Chargement VRAM,Full name for GPU VRAM load metric
 GPUVRAMLoadLabel,VRAM,Short label for GPU VRAM load metric
 GraphConfigSectionTitle,Config,Title of the config section in the graph window
-GraphDuration,DurÇe,Graph config duration label
+GraphDuration,Dur√©e,Graph config duration label
 GraphDurationMinute,Minute,Graph duration minute
 GraphDurationMinutes,Minutes,Graph duration minutes plural
 GraphDurationSeconds,Secondes,Graph duration seconds
-GraphHardware,MatÇriel,Graph config hardware label
-GraphMetrics,MÇtriques,Graph config metrics label
+GraphHardware,Mat√©riel,Graph config hardware label
+GraphMetrics,M√©triques,Graph config metrics label
 GraphMonitor,Moniteur,Graph config monitor label
 GraphTitle,Graph,Title of the graph window
 LanguageChangedText,Merci de relancer l'application.,Text of the language changed popup
-LanguageChangedTitle,Langue changÇe,Title of the language changed popup
-Network,RÇseau,Network monitor title
+LanguageChangedTitle,Langue chang√©e,Title of the language changed popup
+Network,R√©seau,Network monitor title
 NetworkIn,Bande passante entrante,Full name for network in metric
 NetworkInLabel,Entrant,Short label for network in metric
 NetworkOut,Bande passante sortante,Full name for network out metric
 NetworkOutLabel,Sortant,Short label for network out metric
 RAM,RAM,RAM monitor title
-RAMClock,FrÇquence,Full name for RAM clock metric
-RAMClockLabel,FrÇquence,Short label for RAM clock metric
+RAMClock,Fr√©quence,Full name for RAM clock metric
+RAMClockLabel,Fr√©quence,Short label for RAM clock metric
 RAMFree,Libre,Full name for RAM free metric
 RAMFreeLabel,Libre,Short label for RAM free metric
 RAMLoad,Charge,Full name for RAM load metric
 RAMLoadLabel,Charge,Short label for RAM load metric
-RAMUsed,OccupÇe,Full name for RAM load metric
-RAMUsedLabel,OccupÇe,Short label for RAM used metric
+RAMUsed,Occup√©e,Full name for RAM load metric
+RAMUsedLabel,Occup√©e,Short label for RAM used metric
 RAMVoltage,Voltage,Full name for RAM voltage metric
 RAMVoltageLabel,Voltage,Short label for RAM voltage metric
 Settings24HourClock,Format 24 heures,Settings 24 hour clock label
-Settings24HourClockTooltip,Change le format d'heure Ö 24 heures,Settings 24 hour clock tooltip
-SettingsAdvancedTab,AvancÇe,Title of the settings advanced tab
+Settings24HourClockTooltip,Change le format d'heure √† 24 heures,Settings 24 hour clock tooltip
+SettingsAdvancedTab,Avanc√©e,Title of the settings advanced tab
 SettingsAlertFontColor,Couleur de la police d'alerte.,Settings alert font color label
 SettingsAlertFontColorTooltip,Couleur du texte d'alerte.,Settings alert font color tooltip
-SettingsAllCoreClocks,Afficher la frÇquence de tous les c?urs,Settings all core clocks label
-SettingsAllCoreClocksTooltip,Affiche la frÇquence de tous les c?urs et non pas uniquement le premier.,Settings all core clocks tooltip
+SettingsAllCoreClocks,Afficher la fr√©quence de tous les c≈ìurs,Settings all core clocks label
+SettingsAllCoreClocksTooltip,Affiche la fr√©quence de tous les c≈ìurs et non pas uniquement le premier.,Settings all core clocks tooltip
 SettingsAltTab,Afficher dans l' Alt + Tab,Settings alt tab label
-SettingsAltTabTooltip,Afficher la sidebar en effectuant un Altr + Tab,Settings alt tab tooltip
+SettingsAltTabTooltip,Afficher la sidebar en effectuant un Alt + Tab,Settings alt tab tooltip
 SettingsAlwaysOnTop,Toujours au dessus,Settings always on top label
-SettingsAlwaysOnTopTooltip,Mettre la sidebare toujours au-dessus des autres fenàtres.,Settings always on top tooltip
+SettingsAlwaysOnTopTooltip,Mettre la sidebar toujours au-dessus des autres fen√™tres.,Settings always on top tooltip
 SettingsAutoBackground,Couleur de fond automatique,Settings auto background label
-SettingsAutoBackgroundTooltip,DÇfinit la couleur de fond selon les paramätres de couleur de Windows,Settings auto background tooltip
-SettingsAutoUpdate,Mise Ö jour Auto,Settings auto update label
-SettingsAutoUpdateTooltip,Mise Ö jour automatique de l'application,Settings auto update tooltip
+SettingsAutoBackgroundTooltip,D√©finit la couleur de fond selon les param√®tres de couleur de Windows,Settings auto background tooltip
+SettingsAutoUpdate,Mise √† jour Auto,Settings auto update label
+SettingsAutoUpdateTooltip,Mise √† jour automatique de l'application,Settings auto update tooltip
 SettingsBackgroundColor,Couleur de fond,Settings background color label
 SettingsBackgroundColorTooltip,Couleur de fond,Settings background color tooltip
 SettingsBackgroundOpacity,Transparence du fond,Settings background opacity label
 SettingsBackgroundOpacityTooltip,Transparence du fond,Settings background opacity tooltip
 SettingsBandwidthInAlert,Alerte Bande Passante entrante,Settings bandwidth in alert label
-SettingsBandwidthInAlertTooltip,Seuil en kbps ou kBps Ö laquelle la bande passante reáu gÇnäre une alerte. Mettez 0 pour dÇsactiver.,Settings bandwidth in alert tooltip
+SettingsBandwidthInAlertTooltip,Seuil en kbps ou kBps √† laquelle la bande passante re√ßu g√©n√®re une alerte. Mettez 0 pour d√©sactiver.,Settings bandwidth in alert tooltip
 SettingsBandwidthOutAlert,Alerte Bande Passante sortante,Settings bandwidth out alert label
-SettingsBandwidthOutAlertTooltip,Seuil en kbps ou kBps Ö laquelle la bande passante envoyÇe gÇnäre une alerte. Mettez 0 pour dÇsactiver.,Settings bandwidth out alert tooltip
+SettingsBandwidthOutAlertTooltip,Seuil en kbps ou kBps √† laquelle la bande passante envoy√©e g√©n√®re une alerte. Mettez 0 pour d√©sactiver.,Settings bandwidth out alert tooltip
 SettingsClickThrough,Clic au travers,Settings click through label
-SettingsClickThroughTooltip,Permet de laisser passer les Çvenements de la souris au travers de la fenàtre. Notez que cela permettra d'Çviter toute interaction avec la sidebar.,Settings click through tooltip
-SettingsCollapseMenuBar,DÇplier la Barre du Menu,Settings collapse menu bar label
-SettingsCollapseMenuBarTooltip,Supprime l'espace supplÇmentaire en haut de la sibedar.,Settings collapse menu bar tooltip
-SettingsCoreLoads,Afficher le chargement des c?urs,Settings core loads label
-SettingsCoreLoadsTooltip,Affiche la charge en pourcentage de tous les c?urs. ,Settings core loads tooltip
+SettingsClickThroughTooltip,Permet de laisser passer les √©venements de la souris au travers de la fen√™tre. Notez que cela permettra d'√©viter toute interaction avec la sidebar.,Settings click through tooltip
+SettingsCollapseMenuBar,D√©plier la Barre du Menu,Settings collapse menu bar label
+SettingsCollapseMenuBarTooltip,Supprime l'espace suppl√©mentaire en haut de la sibedar.,Settings collapse menu bar tooltip
+SettingsCoreLoads,Afficher le chargement des c≈ìurs,Settings core loads label
+SettingsCoreLoadsTooltip,Affiche la charge en pourcentage de tous les c≈ìurs. ,Settings core loads tooltip
 SettingsCustomizeTab,Personnaliser,Title of the settings customize tab
 SettingsDateFormat,Format de la date,Settings date format label
-SettingsDateFormatDisabled,DÇsactivÇ,Settings date format disabled value
+SettingsDateFormatDisabled,D√©sactiv√©,Settings date format disabled value
 SettingsDateFormatTooltip,Format de la date sous l'heure. ,Settings date format tooltip
 SettingsDock,Encrage,Dock settings label
 SettingsDockBottom,Bas,Dock bottom settings label
 SettingsDockLeft,Gauche,Dock left settings label
 SettingsDockRight,Droite,Dock right settings label
-SettingsDockTooltip,Sur quelle cìtÇ la sidebar doit se positionner.,Dock settings tooltip
+SettingsDockTooltip,Sur quelle c√¥t√© la sidebar doit se positionner.,Dock settings tooltip
 SettingsDockTop,Haut,Dock top settings label
-SettingsDriveDetailsTooltip,Affiche les dÇtails supplÇmentaires des disques durs sous forme de texte.,Settings drive details tooltip
+SettingsDriveDetailsTooltip,Affiche les d√©tails suppl√©mentaires des disques durs sous forme de texte.,Settings drive details tooltip
 SettingsFontColor,Couleur de la police,Settings font color label
-SettingsFontColorTooltip,Couleur du texte et des icìnes.,Settings font color tooltip
+SettingsFontColorTooltip,Couleur du texte et des ic√¥nes.,Settings font color tooltip
 SettingsFontSize,Taille de la police,Settings font size label
-SettingsFontSizeTooltip,Taille du texte et des icìnes.,Settings font size tooltip
-SettingsGeneralTab,GÇnÇral,Title of the settings general tab
-SettingsHardwareColumn1,ActivÇ,Settings hardware data grid enabled column header
-SettingsHardwareColumn2,MatÇriel,Settings hardware data grid hardware column header
-SettingsHardwareEnabledTooltip,Activer ce matÇriel. (Double cliquez pour changer. Bug connu.),Settings hardware enabled checkbox tooltip
-SettingsHardwareNameTooltip,Editer le nom de ce matÇriel. ,Settings hardware name tooltip
-SettingsHorizontalOffset,DÇcalage horizontal,Horizontal offset settings label
-SettingsHorizontalOffsetTooltip,DÇcallage honrizontal de la sidebar,Horizontal offset settings tooltip
+SettingsFontSizeTooltip,Taille du texte et des ic√¥nes.,Settings font size tooltip
+SettingsGeneralTab,G√©n√©ral,Title of the settings general tab
+SettingsHardwareColumn1,Activ√©,Settings hardware data grid enabled column header
+SettingsHardwareColumn2,Mat√©riel,Settings hardware data grid hardware column header
+SettingsHardwareEnabledTooltip,Activer ce mat√©riel. (Double cliquez pour changer. Bug connu.),Settings hardware enabled checkbox tooltip
+SettingsHardwareNameTooltip,Editer le nom de ce mat√©riel. ,Settings hardware name tooltip
+SettingsHorizontalOffset,D√©calage horizontal,Horizontal offset settings label
+SettingsHorizontalOffsetTooltip,D√©callage honrizontal de la sidebar,Horizontal offset settings tooltip
 SettingsHotkeyClose,Fermer,Settings hotkey close label
 SettingsHotkeyCycleEdge,Changer de bord,Settings hotkey switch edge
-SettingsHotkeyCycleScreen,Changer d'Çcran,Settings hotkey switch screen
+SettingsHotkeyCycleScreen,Changer d'√©cran,Settings hotkey switch screen
 SettingsHotkeyHide,Cacher,Settings hotkey hide label
 SettingsHotkeyReload,Recharger,Settings hotkey reload label
 SettingsHotkeyShow,Afficher,Settings hotkey show label
 SettingsHotkeysTab,Raccourics,Title of the settings hotkeys tab
 SettingsHotkeyToggle,Bascule,Settings hotkey toggle label
 SettingsLanguage,Langue,Settings language label
-SettingsLanguageDefault,DÇfaut,Settings language default label
+SettingsLanguageDefault,D√©faut,Settings language default label
 SettingsLanguageTooltip,Langue actuelle de l'application.,Settings language tooltip
-SettingsMetrics,MÇtriques: ,Settings metrics label with colon
-SettingsMetricsTooltip,Activer ou dÇsactiver des mÇtriques spÇcifiques.,Settings metrics tooltip
+SettingsMetrics,M√©triques: ,Settings metrics label with colon
+SettingsMetricsTooltip,Activer ou d√©sactiver des m‚Äötriques sp‚Äöcifiques.,Settings metrics tooltip
 SettingsMonitorEnabledTooltip,Activer ce moniteur,Settings monitor enabled checkbox tooltip
-SettingsMonitorsColumn1,ActivÇ,Settings monitors data grid enabled column header
+SettingsMonitorsColumn1,Activ√©,Settings monitors data grid enabled column header
 SettingsMonitorsColumn2,Moniteur,Settings monitors data grid monitor column header
-SettingsMonitorsSubtitle1,Cliquez sur un ligne pour Çditer ses rÇglages.,Settings monitors subtitle line one
-SettingsMonitorsSubtitle2,DÇplacer une ligne pour changer son ordre.,Settings monitors subtitle line two
+SettingsMonitorsSubtitle1,Cliquez sur un ligne pour √©diter ses r√©glages.,Settings monitors subtitle line one
+SettingsMonitorsSubtitle2,D√©placer une ligne pour changer son ordre.,Settings monitors subtitle line two
 SettingsMonitorsTab,Moniteurs,Title of the settings monitors tab
 SettingsPollingInterval,Interval de rafraichissement. ,Settings polling interval label
-SettingsPollingIntervalTooltip,DurÇe entre l'interrogation des donnÇes en millisecondes.,Settings polling interval tooltip
-SettingsReserveSpace,Espace rÇservÇ,Settings reserve space label
-SettingsReserveSpaceTooltip,RÇserve d'espace dans le zone de travail pour la sidebar.,Settings reserve space tooltip
-SettingsRoundAllDecimals,Arrondir toutes les dÇcimales,Settings round all decimals label
-SettingsRoundAllDecimalsTooltip,Arrondit toutes les valeurs dÇcimales Ö l'entier le plus proche.,Settings round all decimals tooltip
-SettingsRunAtStartup,Lancer au dÇmarrage. ,Settings run at startup label
-SettingsRunAtStartupTooltip,ExÇcute l'application quand vous vous connectez.,Settings run at startup tooltip
+SettingsPollingIntervalTooltip,Dur√©e entre l'interrogation des donn√©es en millisecondes.,Settings polling interval tooltip
+SettingsReserveSpace,Espace r√©serv√©,Settings reserve space label
+SettingsReserveSpaceTooltip,R√©serve d'espace dans le zone de travail pour la sidebar.,Settings reserve space tooltip
+SettingsRoundAllDecimals,Arrondir toutes les d√©cimales,Settings round all decimals label
+SettingsRoundAllDecimalsTooltip,Arrondit toutes les valeurs d√©cimales √† l'entier le plus proche.,Settings round all decimals tooltip
+SettingsRunAtStartup,Lancer au d√©marrage. ,Settings run at startup label
+SettingsRunAtStartupTooltip,Ex√©cute l'application quand vous vous connectez.,Settings run at startup tooltip
 SettingsScreen,Ecran,Screen settings label
-SettingsScreenTooltip,Ecran sur lequel la sidebar sera affichÇe.,Screen settings tooltip
+SettingsScreenTooltip,Ecran sur lequel la sidebar sera affich√©e.,Screen settings tooltip
 SettingsShowClock,Afficher l'heure,Settings show clock label
 SettingsShowClockTooltip,Affiche l'heure.,Settings show clock tooltip
-SettingsShowDriveDetails,Afficher les dÇtails des disques durs.,Settings show drive details label
+SettingsShowDriveDetails,Afficher les d√©tails des disques durs.,Settings show drive details label
 SettingsShowDriveIO,Afficher l'I/O du disque,Settings show drive IO label
-SettingsShowDriveIOTooltip,Affiche les vitesses d'Çcriture et de lecture du disque si l'option dÇtails des disques est activÇe.,Settings show drive IO tooltip
+SettingsShowDriveIOTooltip,Affiche les vitesses d'√©criture et de lecture du disque si l'option d√©tails des disques est activ√©e.,Settings show drive IO tooltip
 SettingsShowDriveSpace,Afficher l'espace disque,Settings show drive space label
-SettingsShowDriveSpaceTooltip,"Afficher le pourcentage de charge, l'espace occupÇ et l'espace libre si l'option dÇtails des disques est activÇe.",Settings show drive space tooltip
-SettingsShowHardwareNames,Afficher les noms des MatÇriels,Settings show hardware names label
-SettingsShowHardwareNamesTooltip,Afficher les noms des matÇriels.,Settings show hardware names tooltip
-SettingsShowTrayIcon,Afficher l'icìne dans la barre de tÉches,Settings show tray icon label
-SettingsShowTrayIconTooltip,Affiche l'icìne dans la barre de tÉches. Ceci est parfois requis.,Settings show tray icon tooltip
+SettingsShowDriveSpaceTooltip,"Afficher le pourcentage de charge, l'espace occup√© et l'espace libre si l'option d√©tails des disques est activ√©e.",Settings show drive space tooltip
+SettingsShowHardwareNames,Afficher les noms des mat√©riels,Settings show hardware names label
+SettingsShowHardwareNamesTooltip,Afficher les noms des mat√©riels.,Settings show hardware names tooltip
+SettingsShowTrayIcon,Afficher l'ic√¥ne dans la barre de t√¢ches,Settings show tray icon label
+SettingsShowTrayIconTooltip,Affiche l'ic√¥ne dans la barre de t√¢ches. Ceci est parfois requis.,Settings show tray icon tooltip
 SettingsSidebarWidth,Largeur de la Sidebar,Settings sidebar width label
-SettingsSidebarWidthTooltip,Largeur de la Sidebare en pixels.,Settings sidebar width tooltip
-SettingsTemperatureAlert,Alerte de tempÇrature,Settings temperature alert label
-SettingsTemperatureAlertTooltip,Seuil de tempÇrature qui va gÇnÇrer une alerte. Mettez 0 pour dÇsactiver.,Settings temperature alert tooltip
+SettingsSidebarWidthTooltip,Largeur de la Sidebar en pixels.,Settings sidebar width tooltip
+SettingsTemperatureAlert,Alerte de temp√©rature,Settings temperature alert label
+SettingsTemperatureAlertTooltip,Seuil de temp√©rature qui va g√©n√©rer une alerte. Mettez 0 pour d√©sactiver.,Settings temperature alert tooltip
 SettingsTextAlign,Alignement du texte,Settings text align label
 SettingsTextAlignLeft,Gauche,Settings text align left value
 SettingsTextAlignRight,Droite,Settings text align right value
-SettingsTextAlignTooltip,Alignement du texte mÇtrique.,Settings text align tooltip
-SettingsTitle,RÇglages Sidebar,Title of the settings window
-SettingsUIScale,Echelle UI,Settings UI scale label
-SettingsUIScaleTooltip,Echelle de toutes les fenàtres et composants.,Settings UI scale tooltip
+SettingsTextAlignTooltip,Alignement m√©trique du texte.,Settings text align tooltip
+SettingsTitle,R√©glages Sidebar,Title of the settings window
+SettingsUIScale,Echelle de l'UI,Settings UI scale label
+SettingsUIScaleTooltip,Echelle de toutes les fen√™tres et composants.,Settings UI scale tooltip
 SettingsUseBytesPerSecond,Utiliser Bytes par seconde,Settings use bytes per second label
-SettingsUseBytesPerSecondTooltip,Affiche la bande passante en Bytes par seconde au lieu de l'octeur par seconde.,Settings use bytes per second tooltip
-SettingsUsedSpaceAlert,Alerte d'espace utilisÇ,Settings used space alert label
-SettingsUsedSpaceAlertTooltip,Seuil en pourcentage d'espace utilisÇ qui va gÇnÇrer une alerte. Mettez 0 pour dÇsactiver.,Settings used space alert tooltip
-SettingsUseFahrenheit,Utiliser le DegrÇ Fahrenheit,Settings use fahrenheit label
-SettingsUseFahrenheitTooltip,Les tempÇratures des sondes et alarmes seront en Fahrenheit au lieu des Celsius.,Settings use fahrenheit tooltip
+SettingsUseBytesPerSecondTooltip,Affiche la bande passante en Bytes par seconde au lieu de l'octet par seconde.,Settings use bytes per second tooltip
+SettingsUsedSpaceAlert,Alerte d'espace utilis√©,Settings used space alert label
+SettingsUsedSpaceAlertTooltip,Seuil en pourcentage d'espace utilis√© qui va g√©n√©rer une alerte. Mettez 0 pour d√©sactiver.,Settings used space alert tooltip
+SettingsUseFahrenheit,Utiliser le Degr√© Fahrenheit,Settings use fahrenheit label
+SettingsUseFahrenheitTooltip,Les temp√©ratures des sondes et alarmes seront en Fahrenheit au lieu des Celsius.,Settings use fahrenheit tooltip
 SettingsUseGHz,Utiliser le GHz,Settings use GHz label
-SettingsUseGHzTooltip,Les frÇquences vont àtre en Ghz au lieu des Mhz.,Settings use GHz tooltip
-SettingsVerticalOffset,DÇcalage vertical,Vertical offset settings label
-SettingsVerticalOffsetTooltip,DÇcalage vertical de la sidebar.,Vertical Offset settings tooltip
-SetupCustomSubtitle,Utilisez les curseurs et les zones de texte pour dÇplacer la sidebar Ö la position correcte.,Subtitle of the custom setup page
-SetupCustomTitle,PersonnalisÇ,Title of the custom setup page
-SetupDoneSubtitle,"Si vous souhaitez personnaliser la sidebar, clique sur le bouton RÇglages.",Subtitle of the setup done page
-SetupDoneText,Vous pouvez Çgalement accÇder aux rÇglages via l'icìnes en haut Ö droite de la sidebar ou via l'icìne dans la barre de tÉches.,Text of the setup done page
-SetupDoneTitle,EffectuÇ !,Title of the setup done page
-SetupSubtitle,Ceci est une configuration rapide pour avoir la sidebare dans la position correcte. ,Subtitle of the initial setup page
-SetupText,Est-ce que la sideba est visible et ancrÇe sur le bord droit de votre Çcran principal ?,Text of the initial setup page
+SettingsUseGHzTooltip,Les fr√©quences vont √™tre en Ghz au lieu des Mhz.,Settings use GHz tooltip
+SettingsVerticalOffset,D√©calage vertical,Vertical offset settings label
+SettingsVerticalOffsetTooltip,D√©calage vertical de la sidebar.,Vertical Offset settings tooltip
+SetupCustomSubtitle,Utilisez les curseurs et les zones de texte pour d√©placer la sidebar √† la position correcte.,Subtitle of the custom setup page
+SetupCustomTitle,Personnalis√©,Title of the custom setup page
+SetupDoneSubtitle,"Si vous souhaitez personnaliser la sidebar, cliquez sur le bouton R√©glages.",Subtitle of the setup done page
+SetupDoneText,Vous pouvez √©galement acc√©der aux r√©glages via l'ic√¥nes en haut √† droite de la sidebar ou via l'ic√¥ne dans la barre de t√¢ches.,Text of the setup done page
+SetupDoneTitle,Effectu√© !,Title of the setup done page
+SetupSubtitle,Ceci est une configuration rapide pour avoir la sidebar dans la position correcte. ,Subtitle of the initial setup page
+SetupText,Est-ce que la sidebar est visible et ancr√©e sur le bord droit de votre √©cran principal ?,Text of the initial setup page
 SetupTitle,Configuration initiale,Title of the initial setup page
 Sidebar,Sidebar,Title of the sidebar window
 Time,Heure,Sidebar clock title
-UpdateErrorFatalText,Une erreur fatale est survenue lors de la tentative de mise Ö jour. La mise Ö jour automatique est maintenant dÇsactivÇe.,Fatal text of the update error popup
-UpdateErrorText,Mise Ö jour impossible. VÇrifiez votre connexion internet.,Text of the update error popup
-UpdateErrorTitle,Erreur de mise Ö jour.,Title of the update error popup
-UpdateSuccessText,Vous avez la derniäre version,Text of the update success popup
-UpdateTitle,Mise Ö jour,Title of the update window
+UpdateErrorFatalText,Une erreur fatale est survenue lors de la tentative de mise √† jour. La mise √† jour automatique est maintenant d√©sactiv√©e.,Fatal text of the update error popup
+UpdateErrorText,Mise √† jour impossible. V√©rifiez votre connexion internet.,Text of the update error popup
+UpdateErrorTitle,Erreur de mise √† jour.,Title of the update error popup
+UpdateSuccessText,Vous avez la derni√®re version,Text of the update success popup
+UpdateTitle,Mise √† jour,Title of the update window
