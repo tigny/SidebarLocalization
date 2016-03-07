@@ -176,7 +176,7 @@ SettingsShowDriveDetails,Show Drive Details,Settings show drive details label
 SettingsShowDriveIO,Show Drive IO,Settings show drive IO label
 SettingsShowDriveIOTooltip,Shows drive read and write speeds if drive details is enabled.,Settings show drive IO tooltip
 SettingsShowDriveSpace,Show Drive Space,Settings show drive space label
-SettingsShowDriveSpaceTooltip,Shows load percent, used space, and free space if drive details is enabled.,Settings show drive space tooltip
+SettingsShowDriveSpaceTooltip,"Shows load percent, used space, and free space if drive details is enabled.",Settings show drive space tooltip
 SettingsShowHardwareNames,Show Hardware Names,Settings show hardware names label
 SettingsShowHardwareNamesTooltip,Shows hardware names.,Settings show hardware names tooltip
 SettingsShowTrayIcon,Show Tray Icon,Settings show tray icon label
