@@ -202,7 +202,7 @@ SettingsUseGHz,GHz anwenden,Settings use GHz label
 SettingsUseGHzTooltip,Der Takt wird in GHz anstelle von MHz angezeigt.,Settings use GHz tooltip
 SettingsVerticalOffset,Vertikaler Abstand,Vertical offset settings label
 SettingsVerticalOffsetTooltip,Vertikaler Abstand der Seitenleiste,Vertical Offset settings tooltip
-SetupCustomSubtitle,Benutze den Schiberegler und Textfelder, um die Seitenleiste in die richtige Position zu bewegen.,Subtitle of the custom setup page
+SetupCustomSubtitle,"Benutze den Schiberegler und Textfelder, um die Seitenleiste in die richtige Position zu bewegen.",Subtitle of the custom setup page
 SetupCustomTitle,Anpassung,Title of the custom setup page
 SetupDoneSubtitle,Wenn Sie die Seitenleiste anpassen möchten klicken Sie auf die Schaltfläche Einstellungen.,Subtitle of the setup done page
 SetupDoneText,Sie können auch auf die Einstellungen über das Zahnrad-Symbol oben rechts in der Seitenleiste oder über das Tray-Icon in der Taskleiste .,Text of the setup done page
