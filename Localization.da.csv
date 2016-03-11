@@ -2,67 +2,67 @@
 AppName,Sidebar Diagnostik,Name of the app
 Close,Afslut,Close app taskbar menu item
 CPU,CPU,CPU monitor title
-CPUClock,Frekvens,Full name for CPU clock metric
+CPUClock,CPU frekvens,Full name for CPU clock metric
 CPUClockLabel,Frekvens,Short label for CPU clock metric
-CPUCoreClock,Frekvens,Full name for CPU core clock metric
+CPUCoreClock,CPU kernefrekvens,Full name for CPU core clock metric
 CPUCoreClockLabel,Frekvens,Short label for CPU core clock metric
-CPUCoreLoad,Kerne,Full name for CPU core load metric
+CPUCoreLoad,CPU kernebelastning,Full name for CPU core load metric
 CPUCoreLoadLabel,Kerne,Short label for CPU core load metric
-CPUFan,Blæser,Full name for CPU fan metric
+CPUFan,CPU Blæser,Full name for CPU fan metric
 CPUFanLabel,Blæser,Short label for CPU fan metric
-CPULoad,Belastning,Full name for CPU load metric
+CPULoad,CPU belastning,Full name for CPU load metric
 CPULoadLabel,Belastning,Short label for CPU load metric
-CPUTemp,Temperatur,Full name for CPU temp metric
+CPUTemp,CPU Temperatur,Full name for CPU temp metric
 CPUTempLabel,Temp,Short label for CPU temp metric
-CPUVoltage,Volt,Full name for CPU voltage metric
+CPUVoltage,CPU Volt,Full name for CPU voltage metric
 CPUVoltageLabel,Volt,Short label for CPU voltage metric
 Donate,Doner,Donate taskbar menu item
-DriveFree,Fri,Full name for drive free metric
+DriveFree,Fri plads,Full name for drive free metric
 DriveFreeLabel,Fri,Short label for drive free metric
 DriveLoad,I brug,Full name for drive load metric
-DriveLoadBar,I brug,Full name for drive load bar metric
+DriveLoadBar,Drevplads i brug,Full name for drive load bar metric
 DriveLoadBarLabel,I brug,Short label for drive load bar metric
 DriveLoadLabel,I brug,Short label for drive load metric
-DriveRead,Læs,Full name for drive read metric
+DriveRead,Drev læsehastighed,Full name for drive read metric
 DriveReadLabel,Læs,Short label for drive read metric
 Drives,Drev,Drives monitor title
-DriveUsed,Brugt,Full name for drive used metric
+DriveUsed,Drevplads i brug,Full name for drive used metric
 DriveUsedLabel,Brugt,Short label for drive used metric
-DriveWrite,Skriv,Full name for drive write metric
+DriveWrite,Drev skrivehastighed,Full name for drive write metric
 DriveWriteLabel,Skriv,Short label for drive write metric
 GitHub,GitHub,GitHub taskbar menu item
 GPU,GPU,GPU monitor title
-GPUCoreClock,Kerne,Full name for GPU core clock metric
+GPUCoreClock,GPU Kernefrekvens,Full name for GPU core clock metric
 GPUCoreClockLabel,Kerne,Short label for RAM core clock metric
-GPUCoreLoad,Kerne,Full name for GPU core load metric
+GPUCoreLoad,GPU Kernebelastning,Full name for GPU core load metric
 GPUCoreLoadLabel,Kerne,Short label for GPU core load metric
-GPUFan,Blæser,Full name for GPU fan metric
+GPUFan,GPU Blæser,Full name for GPU fan metric
 GPUFanLabel,Blæser,Short label for GPU voltage metric
-GPUTemp,Temperature,Full name for GPU temp metric
+GPUTemp,GPU temperatur,Full name for GPU temp metric
 GPUTempLabel,Temp,Short label for GPU temp metric
-GPUVoltage,Volt,Full name for GPU voltage metric
+GPUVoltage,GPU Volt,Full name for GPU voltage metric
 GPUVoltageLabel,Volt,Short label for GPU voltage metric
-GPUVRAMClock,VRAM frekvens,Full name for GPU VRAM clock metric
+GPUVRAMClock,GPU VRAM frekvens,Full name for GPU VRAM clock metric
 GPUVRAMClockLabel,VRAM,Short label for GPU VRAM clock metric
-GPUVRAMLoad,VRAM,Full name for GPU VRAM load metric
+GPUVRAMLoad,GPU VRAM belastning,Full name for GPU VRAM load metric
 GPUVRAMLoadLabel,VRAM,Short label for GPU VRAM load metric
 Graph,Graf,Graph taskbar menu item
 Hide,Skjul,Hide taskbar menu item
 Network,Netværk,Network monitor title
-NetworkIn,Ind,Full name for network in metric
+NetworkIn,Netværk ind,Full name for network in metric
 NetworkInLabel,Ind,Short label for network in metric
-NetworkOut,Ud,Full name for network out metric
+NetworkOut,Netværk ud,Full name for network out metric
 NetworkOutLabel,Ud,Short label for network out metric
 RAM,RAM,RAM monitor title
-RAMClock,Frekvens,Full name for RAM clock metric
+RAMClock,RAM frekvens,Full name for RAM clock metric
 RAMClockLabel,Frekvens,Short label for RAM clock metric
-RAMFree,Fri,Full name for RAM free metric
+RAMFree,RAM fri,Full name for RAM free metric
 RAMFreeLabel,Fri,Short label for RAM free metric
-RAMLoad,I brug,Full name for RAM load metric
+RAMLoad,RAM i brug,Full name for RAM load metric
 RAMLoadLabel,I brug,Short label for RAM load metric
-RAMUsed,Brugt,Full name for RAM load metric
+RAMUsed,RAM brugt,Full name for RAM load metric
 RAMUsedLabel,Brugt,Short label for RAM used metric
-RAMVoltage,Volt,Full name for RAM voltage metric
+RAMVoltage,RAM Volt,Full name for RAM voltage metric
 RAMVoltageLabel,Volt,Short label for RAM voltage metric
 Reload,Genindlæs,Reload taskbar menu item
 Settings,Indstillinger,Settings taskbar menu item
