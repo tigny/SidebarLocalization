@@ -2,11 +2,11 @@
 AppName,Sidebar Diagnostics,Name of the app
 ButtonApply,Anwenden,Text of the apply button
 ButtonCancel,Abbrechen,Text of the cancel button
-ButtonClose,Schliessen,Text of the close button
+ButtonClose,Schließen,Text of the close button
 ButtonDonate,Spenden,Text of the donate button
 ButtonDone,Erledigt,Text of the done button
 ButtonGitHub,GitHub,Text of the GitHub button
-ButtonGraph,Graphik,Text of the graph button
+ButtonGraph,Grafik,Text of the graph button
 ButtonHide,Verbergen,Text of the hide button
 ButtonNo,Nein,Text of the no button
 ButtonReload,Neu laden,Text of the reload button
@@ -17,7 +17,7 @@ ButtonSkip,Überspringen,Text of the skip button
 ButtonUpdate,Aktualisieren,Text of the update button
 ButtonVisibility,Sichtbarkeit,Text of the visibility button
 ButtonYes,Ja,Text of the yes button
-ChangeLogTitle,Änderungs Protokoll,Title of the change log window
+ChangeLogTitle,ChangeLog (Änderungen),Title of the change log window
 CPU,CPU,CPU monitor title
 CPUClock,CPU Takt,Full name for CPU clock metric
 CPUClockLabel,Takt,Short label for CPU clock metric
@@ -39,14 +39,14 @@ DriveLoad,Belegt,Full name for drive load metric
 DriveLoadBar,Belegt,Full name for drive load bar metric
 DriveLoadBarLabel,Auslastung Festplatte,Short label for drive load bar metric
 DriveLoadLabel,Auslastung,Short label for drive load metric
-DriveRead,Lese Geschwindigkeit,Full name for drive read metric
+DriveRead,Leserate,Full name for drive read metric
 DriveReadLabel,Lesen,Short label for drive read metric
 Drives,Festplatten,Drives monitor title
 DriveUsed,Belegter Speicher,Full name for drive used metric
 DriveUsedLabel,Belegt,Short label for drive used metric
-DriveWrite,Schreib Geschwindigkeit,Full name for drive write metric
+DriveWrite,Schreibrate,Full name for drive write metric
 DriveWriteLabel,Schreiben,Short label for drive write metric
-ErrorPerformanceCounter,Your Performance Counter cache is corrupted. Click OK to visit the wiki and fix this error.,Text of the performance counter error
+ErrorPerformanceCounter,Der "Performance Counter Cache" ist fehlerhaft. Klicken Sie auf OK um das Wiki zu besuchen und diesen Fehler zu beheben.,Text of the performance counter error
 ErrorTitle,Seitenleisten Fehler,Title of the error popup
 GPU,Grafikkarte,GPU monitor title
 GPUCoreClock,Grafikkarten Kern,Full name for GPU core clock metric
@@ -69,46 +69,46 @@ GraphDurationMinute,Minute,Graph duration minute
 GraphDurationMinutes,Minuten,Graph duration minutes plural
 GraphDurationSeconds,Sekunden,Graph duration seconds
 GraphHardware,Hardware,Graph config hardware label
-GraphMetrics,Metrics,Graph config metrics label
+GraphMetrics,Anzeigen,Graph config metrics label
 GraphMonitor,Monitor,Graph config monitor label
-GraphTitle,Graphik,Title of the graph window
-LanguageChangedText,Bitte starte die Anwendung neu!,Text of the language changed popup
-LanguageChangedTitle,Sprachänderung,Title of the language changed popup
-Network,Network,Netzwerk monitor title
+GraphTitle,Grafik,Title of the graph window
+LanguageChangedText,Bitte starten Sie die Anwendung neu!,Text of the language changed popup
+LanguageChangedTitle,Sprachauswahl,Title of the language changed popup
+Network,Netzwerk,Networkmonitor title
 NetworkIn,Empfangen,Full name for network in metric
-NetworkInLabel,Ein,Short label for network in metric
+NetworkInLabel,Download,Short label for network in metric
 NetworkOut,Gesendet,Full name for network out metric
-NetworkOutLabel,Aus,Short label for network out metric
-RAM,RAM,RAM monitor title
-RAMClock,Clock,Full name for RAM clock metric
-RAMClockLabel,Clock,Short label for RAM clock metric
-RAMFree,Free,Full name for RAM free metric
-RAMFreeLabel,Free,Short label for RAM free metric
-RAMLoad,Load,Full name for RAM load metric
-RAMLoadLabel,Load,Short label for RAM load metric
-RAMUsed,Used,Full name for RAM load metric
-RAMUsedLabel,Used,Short label for RAM used metric
-RAMVoltage,Voltage,Full name for RAM voltage metric
-RAMVoltageLabel,Voltage,Short label for RAM voltage metric
+NetworkOutLabel,Upload,Short label for network out metric
+RAM,Arbeitsspeicher,RAM monitor title
+RAMClock,Takt,Full name for RAM clock metric
+RAMClockLabel,Takt,Short label for RAM clock metric
+RAMFree,Frei,Full name for RAM free metric
+RAMFreeLabel,Frei,Short label for RAM free metric
+RAMLoad,Auslastung,Full name for RAM load metric
+RAMLoadLabel,Auslastung,Short label for RAM load metric
+RAMUsed,Belegt,Full name for RAM load metric
+RAMUsedLabel,Belegt,Short label for RAM used metric
+RAMVoltage,Spannung,Full name for RAM voltage metric
+RAMVoltageLabel,Spannung,Short label for RAM voltage metric
 Settings24HourClock,24-Stunden Uhrzeit,Settings 24 hour clock label
 Settings24HourClockTooltip,Ändert das Zeitformat in 24 Stunden.,Settings 24 hour clock tooltip
 SettingsAdvancedTab,Erweitert,Title of the settings advanced tab
-SettingsAlertFontColor,Farbe Warnungen,Settings alert font color label
-SettingsAlertFontColorTooltip,Farbe des Warnungstextes,Settings alert font color tooltip
-SettingsAllCoreClocks,Show All Core Clocks,Settings all core clocks label
-SettingsAllCoreClocksTooltip,Shows the clock speeds of all cores not just the first.,Settings all core clocks tooltip
-SettingsAltTab,Show in Alt + Tab,Settings alt tab label
-SettingsAltTabTooltip,Shows the sidebar in the Alt + Tab menu.,Settings alt tab tooltip
-SettingsAlwaysOnTop,Always On Top,Settings always on top label
-SettingsAlwaysOnTopTooltip,Makes the sidebar always on top of other windows.,Settings always on top tooltip
-SettingsAutoBackground,Auto Background Color,Settings auto background label
-SettingsAutoBackgroundTooltip,Sets the background color to your Windows color settings.,Settings auto background tooltip
-SettingsAutoUpdate,Auto Update,Settings auto update label
-SettingsAutoUpdateTooltip,Updates the app automatically.,Settings auto update tooltip
-SettingsBackgroundColor,Background Color,Settings background color label
-SettingsBackgroundColorTooltip,Color of the background.,Settings background color tooltip
-SettingsBackgroundOpacity,Background Opacity,Settings background opacity label
-SettingsBackgroundOpacityTooltip,Opacity of the background.,Settings background opacity tooltip
+SettingsAlertFontColor,Farbe für Warnungen,Settings alert font color label
+SettingsAlertFontColorTooltip,Farbe des Warntextes,Settings alert font color tooltip
+SettingsAllCoreClocks,Zeige den Takt aller Kerne an,Settings all core clocks label
+SettingsAllCoreClocksTooltip,Zeige den Takt nur den ersten sondern für alle Kerne an,Settings all core clocks tooltip
+SettingsAltTab,Anzeige in Alt + Tab,Settings alt tab label
+SettingsAltTabTooltip,Zeige das Programm in der Alt + Tab Ansicht an Ansicht an,Settings alt tab tooltip
+SettingsAlwaysOnTop,Anzeige als oberstes Fenster,Settings always on top label
+SettingsAlwaysOnTopTooltip,Zeige die Sidebar immer über allen anderen Fenstern an,Settings always on top tooltip
+SettingsAutoBackground,Automatische Hintergrundfarbe,Settings auto background label
+SettingsAutoBackgroundTooltip,Passt die Hintergrundfarbe an das Windows Farbschema an,Settings auto background tooltip
+SettingsAutoUpdate,Automatisches Update,Settings auto update label
+SettingsAutoUpdateTooltip,Automatische Aktualisierung des Programms.,Settings auto update tooltip
+SettingsBackgroundColor,Hintergrundfarbe,Settings background color label
+SettingsBackgroundColorTooltip,Farbe des Hintergrunds.,Settings background color tooltip
+SettingsBackgroundOpacity,Hintergrund Deckkraft,Settings background opacity label
+SettingsBackgroundOpacityTooltip,Deckkraft des Hintergrunds.,Settings background opacity tooltip
 SettingsBandwidthInAlert,Bandwidth In Alert,Settings bandwidth in alert label
 SettingsBandwidthInAlertTooltip,The kbps or kBps threshold at which bandwidth received alerts occur. Use 0 to disable.,Settings bandwidth in alert tooltip
 SettingsBandwidthOutAlert,Bandwidth Out Alert,Settings bandwidth out alert label
@@ -120,40 +120,40 @@ SettingsCollapseMenuBarTooltip,Removes the extra space at the top of the sidebar
 SettingsCoreLoads,Show Core Loads,Settings core loads label
 SettingsCoreLoadsTooltip,Shows the percentage load of all cores.,Settings core loads tooltip
 SettingsCustomizeTab,Anpassen,Title of the settings customize tab
-SettingsDateFormat,Formatiere Datum,Settings date format label
+SettingsDateFormat,Datumsformat,Settings date format label
 SettingsDateFormatDisabled,Deaktivieren,Settings date format disabled value
 SettingsDateFormatTooltip,Format des Datumstextes unter der Uhr.,Settings date format tooltip
 SettingsDock,Anfügen,Dock settings label
 SettingsDockBottom,Unten,Dock bottom settings label
 SettingsDockLeft,Links,Dock left settings label
 SettingsDockRight,Rechts,Dock right settings label
-SettingsDockTooltip,An welchem Rand man die Seitenleiste anfügt.,Dock settings tooltip
 SettingsDockTop,Oben,Dock top settings label
-SettingsDriveDetailsTooltip,Zeigt zusätzliche Festplatten informationen als Text an.,Settings drive details tooltip
+SettingsDockTooltip,An welchem Rand die Seitenleiste eingefügt wird.,Dock settings tooltip
+SettingsDriveDetailsTooltip,Zeigt zusätzliche Festplatten Informationen als Text an.,Settings drive details tooltip
 SettingsFontColor,Schriftfarbe,Settings font color label
 SettingsFontColorTooltip,Farbe der Symbole und Texte.,Settings font color tooltip
-SettingsFontSize,Schriftgrösse,Settings font size label
-SettingsFontSizeTooltip,Schriftgrösse der Symbole und Texte.,Settings font size tooltip
+SettingsFontSize,Schriftgröße,Settings font size label
+SettingsFontSizeTooltip,Schriftgröße der Symbole und Texte.,Settings font size tooltip
 SettingsGeneralTab,Allgemein,Title of the settings general tab
 SettingsHardwareColumn1,Aktivieren,Settings hardware data grid enabled column header
 SettingsHardwareColumn2,Hardware,Settings hardware data grid hardware column header
-SettingsHardwareEnabledTooltip,Hardware aktivieren. (Doppel klick um es zu ändern. Bekannter Bug.),Settings hardware enabled checkbox tooltip
+SettingsHardwareEnabledTooltip,Hardware aktivieren. (Doppelklick um zu ändern. Bekannter Bug.),Settings hardware enabled checkbox tooltip
 SettingsHardwareNameTooltip,Namen der Hardware bearbeiten.,Settings hardware name tooltip
-SettingsHorizontalOffset,Horizontaller Abstand,Horizontal offset settings label
-SettingsHorizontalOffsetTooltip,Horizontaller Abstand der Seitenleiste.,Horizontal offset settings tooltip
-SettingsHotkeyClose,Schliessen,Settings hotkey close label
+SettingsHorizontalOffset,Horizontaler Abstand,Horizontal offset settings label
+SettingsHorizontalOffsetTooltip,Horizontaler Abstand der Seitenleiste.,Horizontal offset settings tooltip
+SettingsHotkeyClose,Schließen,Settings hotkey close label
 SettingsHotkeyCycleEdge,Ändere Randposition,Settings hotkey switch edge
 SettingsHotkeyCycleScreen,Ändere Monitor,Settings hotkey switch screen
 SettingsHotkeyHide,Verbergen,Settings hotkey hide label
-SettingsHotkeyReload,Neu Laden,Settings hotkey reload label
+SettingsHotkeyReload,Neu laden,Settings hotkey reload label
 SettingsHotkeyShow,Anzeigen,Settings hotkey show label
 SettingsHotkeysTab,Hotkeys,Title of the settings hotkeys tab
 SettingsHotkeyToggle,Umschalten,Settings hotkey toggle label
 SettingsLanguage,Sprache,Settings language label
-SettingsLanguageDefault,Standad,Settings language default label
+SettingsLanguageDefault,Standardsprache,Settings language default label
 SettingsLanguageTooltip,Momentane Sprache der Anwendung,Settings language tooltip
-SettingsMetrics,Metrics:,Settings metrics label with colon
-SettingsMetricsTooltip,Enable or disable specific metrics.,Settings metrics tooltip
+SettingsMetrics,Anzeigen,Settings metrics label with colon
+SettingsMetricsTooltip,Verschiedene Anzeigen ein- und ausschalten.,Settings metrics tooltip
 SettingsMonitorEnabledTooltip,Enables this monitor.,Settings monitor enabled checkbox tooltip
 SettingsMonitorsColumn1,Aktivieren,Settings monitors data grid enabled column header
 SettingsMonitorsColumn2,Monitor,Settings monitors data grid monitor column header
@@ -167,42 +167,42 @@ SettingsReserveSpaceTooltip,Reserves space in the work area for the sidebar.,Set
 SettingsRoundAllDecimals,Runden,Settings round all decimals label
 SettingsRoundAllDecimalsTooltip,Rundet alle Dezimalwerte auf die nächste ganze Zahl.,Settings round all decimals tooltip
 SettingsRunAtStartup,Autostart,Settings run at startup label
-SettingsRunAtStartupTooltip,Seitenleiste wird ausgeführt bei System start.,Settings run at startup tooltip
+SettingsRunAtStartupTooltip,Seitenleiste wird bei Systemstart ausgeführt.,Settings run at startup tooltip
 SettingsScreen,Monitor,Screen settings label
 SettingsScreenTooltip,Auf welchem Monitor die Seitenleiste angezeigt wird.,Screen settings tooltip
 SettingsShowClock,Uhrzeit,Settings show clock label
 SettingsShowClockTooltip,Zeigt die Uhrzeit an.,Settings show clock tooltip
 SettingsShowDriveDetails,Festplatten Details,Settings show drive details label
 SettingsShowDriveIO,Festplatten Auslastung,Settings show drive IO label
-SettingsShowDriveIOTooltip,Zeigt die Lese- und Schreibgeschwindigkeit wenn die Festplatten details aktiviert sind.,Settings show drive IO tooltip
+SettingsShowDriveIOTooltip,Zeigt die Lese- und Schreibgeschwindigkeit an, wenn die Festplattendetails aktiviert sind.,Settings show drive IO tooltip
 SettingsShowDriveSpace,Speicherkapazität,Settings show drive space label
-SettingsShowDriveSpaceTooltip,Zeigt die Auslastung des Belegten Speicherplatzes und freien Speicherplatzes in Prozent an.,Settings show drive space tooltip
+SettingsShowDriveSpaceTooltip,Zeigt die Auslastung des belegten Speicherplatzes und freien Speicherplatzes in Prozent an.,Settings show drive space tooltip
 SettingsShowHardwareNames,Hardware Namen anzeigen,Settings show hardware names label
 SettingsShowHardwareNamesTooltip,Zeigt die Hardware Namen an.,Settings show hardware names tooltip
-SettingsShowTrayIcon,Tray-Icon Anzeige,Settings show tray icon label
+SettingsShowTrayIcon,Tray-Icon Anzeige (Taskleiste),Settings show tray icon label
 SettingsShowTrayIconTooltip,"Zeigt das Tray-Icon in der Taskleiste, dies wird manchmal benötigt.",Settings show tray icon tooltip
-SettingsSidebarWidth,Seitenleiste breite,Settings sidebar width label
+SettingsSidebarWidth,Seitenleistenbreite,Settings sidebar width label
 SettingsSidebarWidthTooltip,Breite der Seitenleiste in Pixel.,Settings sidebar width tooltip
 SettingsTemperatureAlert,Temperatur Warnung,Settings temperature alert label
-SettingsTemperatureAlertTooltip,"The Temperaturschwelle, bei der Warnungen auftreten. Verwenden Sie 0 um es zu deaktivieren.",Settings temperature alert tooltip
+SettingsTemperatureAlertTooltip,"Temperaturschwelle, ab welcher Warnungen auftreten. Verwenden Sie 0 um es zu deaktivieren.",Settings temperature alert tooltip
 SettingsTextAlign,Text Ausrichtung,Settings text align label
 SettingsTextAlignLeft,Links,Settings text align left value
 SettingsTextAlignRight,Rechts,Settings text align right value
-SettingsTextAlignTooltip,Ausrichtung Zahlenwert-Texte,Settings text align tooltip
+SettingsTextAlignTooltip,Ausrichtung von Zahlenwert-Texten,Settings text align tooltip
 SettingsTitle,Seitenleiste Einstellungen,Title of the settings window
-SettingsUIScale,Bedienoberfläche Massstab,Settings UI scale label
-SettingsUIScaleTooltip,Massstab aller Fenster und Bedienoberflächen.,Settings UI scale tooltip
-SettingsUseBytesPerSecond,Vewendet Bytes pro Sekunde,Settings use bytes per second label
+SettingsUIScale,Benutzeroberfläche Maßstab,Settings UI scale label
+SettingsUIScaleTooltip,Maßstab aller Fenster und Bedienoberflächen.,Settings UI scale tooltip
+SettingsUseBytesPerSecond,Vewende Bytes pro Sekunde,Settings use bytes per second label
 SettingsUseBytesPerSecondTooltip,Zeigt Bandbreite in Bytes statt in Bits pro Sekunde.,Settings use bytes per second tooltip
 SettingsUsedSpaceAlert,Benutzter Speicher Alarm,Settings used space alert label
-SettingsUsedSpaceAlertTooltip,Die prozentuale Schwellenwert Warnung bei verwendeten Speicherplatz. Verwenden Sie 0 um es zu deaktivieren.,Settings used space alert tooltip
-SettingsUseFahrenheit,Fahrenheit anwenden,Settings use fahrenheit label
+SettingsUsedSpaceAlertTooltip,Prozentuale Schwellenwert Warnung bei verwendeten Speicherplatz. Verwenden Sie 0 um es zu deaktivieren.,Settings used space alert tooltip
+SettingsUseFahrenheit,Fahrenheit verwenden,Settings use fahrenheit label
 SettingsUseFahrenheitTooltip,Die Temperaturen für Sensoren und Alarme werden in Celsius anstelle von Fahrenheit angezeigt.,Settings use fahrenheit tooltip
-SettingsUseGHz,GHz anwenden,Settings use GHz label
+SettingsUseGHz,GHz verwenden,Settings use GHz label
 SettingsUseGHzTooltip,Der Takt wird in GHz anstelle von MHz angezeigt.,Settings use GHz tooltip
 SettingsVerticalOffset,Vertikaler Abstand,Vertical offset settings label
 SettingsVerticalOffsetTooltip,Vertikaler Abstand der Seitenleiste,Vertical Offset settings tooltip
-SetupCustomSubtitle,"Benutze den Schiberegler und Textfelder, um die Seitenleiste in die richtige Position zu bewegen.",Subtitle of the custom setup page
+SetupCustomSubtitle,"Benutze den Schieberegler und Textfelder, um die Seitenleiste in die richtige Position zu bewegen.",Subtitle of the custom setup page
 SetupCustomTitle,Anpassung,Title of the custom setup page
 SetupDoneSubtitle,Wenn Sie die Seitenleiste anpassen möchten klicken Sie auf die Schaltfläche Einstellungen.,Subtitle of the setup done page
 SetupDoneText,Sie können auch auf die Einstellungen über das Zahnrad-Symbol oben rechts in der Seitenleiste oder über das Tray-Icon in der Taskleiste .,Text of the setup done page
@@ -212,8 +212,8 @@ SetupText,Ist die Seitenleiste sichtbar und an den korrekten Rand des primären 
 SetupTitle,Ersteinrichtung,Title of the initial setup page
 Sidebar,Seitenleiste,Title of the sidebar window
 Time,Uhrzeit,Sidebar clock title
-UpdateErrorFatalText,A fatal error occurred while trying to update. Auto update is now disabled.,Fatal text of the update error popup
-UpdateErrorText,Aktualisierung nicht Möglich. Bitte Kontrolliere Sie ihre Internet Verbindung.,Text of the update error popup
-UpdateErrorTitle,Aktualisierungs Fehler,Title of the update error popup
-UpdateSuccessText,Sie haben die neuste Version.,Text of the update success popup
+UpdateErrorFatalText,Ein schwerer Fehler ist während dem Update aufgetreten. Die automatische Aktualisierung wurde deaktiviert.,Fatal text of the update error popup
+UpdateErrorText,Aktualisierung nicht Möglich. Bitte überprüfen Sie Ihre Internet Verbindung.,Text of the update error popup
+UpdateErrorTitle,Aktualisierungsfehler,Title of the update error popup
+UpdateSuccessText,Sie verwenden nun die neuste Version von Sidebar Diagnostics.,Text of the update success popup
 UpdateTitle,Aktualisierung,Title of the update window
