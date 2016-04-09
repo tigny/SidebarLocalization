@@ -174,7 +174,7 @@ SettingsShowClock,Uhrzeit,Settings show clock label
 SettingsShowClockTooltip,Zeigt die Uhrzeit an.,Settings show clock tooltip
 SettingsShowDriveDetails,Festplatten Details,Settings show drive details label
 SettingsShowDriveIO,Festplatten Auslastung,Settings show drive IO label
-SettingsShowDriveIOTooltip,Zeigt die Lese- und Schreibgeschwindigkeit an, wenn die Festplattendetails aktiviert sind.,Settings show drive IO tooltip
+SettingsShowDriveIOTooltip,"Zeigt die Lese- und Schreibgeschwindigkeit an, wenn die Festplattendetails aktiviert sind.",Settings show drive IO tooltip
 SettingsShowDriveSpace,Speicherkapazität,Settings show drive space label
 SettingsShowDriveSpaceTooltip,Zeigt die Auslastung des belegten Speicherplatzes und freien Speicherplatzes in Prozent an.,Settings show drive space tooltip
 SettingsShowHardwareNames,Hardware Namen anzeigen,Settings show hardware names label
