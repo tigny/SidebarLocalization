@@ -46,7 +46,7 @@ DriveUsed,Belegter Speicher,Full name for drive used metric
 DriveUsedLabel,Belegt,Short label for drive used metric
 DriveWrite,Schreibrate,Full name for drive write metric
 DriveWriteLabel,Schreiben,Short label for drive write metric
-ErrorPerformanceCounter,Der ""Performance Counter Cache"" ist fehlerhaft. Klicken Sie auf OK um das Wiki zu besuchen und diesen Fehler zu beheben.,Text of the performance counter error
+ErrorPerformanceCounter,Der Performance Counter Cache ist fehlerhaft. Klicken Sie auf OK um das Wiki zu besuchen und diesen Fehler zu beheben.,Text of the performance counter error
 ErrorTitle,Seitenleisten Fehler,Title of the error popup
 GPU,Grafikkarte,GPU monitor title
 GPUCoreClock,Grafikkarten Kern,Full name for GPU core clock metric
