@@ -93,6 +93,8 @@ RAMVoltageLabel,Voltage,Short label for RAM voltage metric
 Settings24HourClock,24 Hour Clock,Settings 24 hour clock label
 Settings24HourClockTooltip,Changes the clock's time format to 24 hours.,Settings 24 hour clock tooltip
 SettingsAdvancedTab,Advanced,Title of the settings advanced tab
+SettingsAlertBlink,Alert Blink,Settings alert blink label
+SettingsAlertBlinkTooltip,Makes the alert text blink.,Settings alert blink tooltip
 SettingsAlertFontColor,Alert Font Color,Settings alert font color label
 SettingsAlertFontColorTooltip,Color of alert text.,Settings alert font color tooltip
 SettingsAllCoreClocks,Show All Core Clocks,Settings all core clocks label
