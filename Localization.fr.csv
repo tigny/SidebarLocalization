@@ -1,5 +1,5 @@
 !Property,!Text,!Note
-AppName,Sidebar Diagnostics,Name of the app
+AppName,Sidebar de diagnostics,Name of the app
 ButtonApply,Appliquer,Text of the apply button
 ButtonCancel,Annuler,Text of the cancel button
 ButtonClose,Fermer,Text of the close button
@@ -40,12 +40,12 @@ DriveLoadBar,Barre de charge,Full name for drive load bar metric
 DriveLoadBarLabel,Charge,Short label for drive load bar metric
 DriveLoadLabel,Charge,Short label for drive load metric
 DriveRead,Vitesse de lecture,Full name for drive read metric
-DriveReadLabel,Lectures,Short label for drive read metric
+DriveReadLabel,Lecture,Short label for drive read metric
 Drives,Disques Durs,Drives monitor title
 DriveUsed,Utilisé,Full name for drive used metric
 DriveUsedLabel,Utilisé,Short label for drive used metric
 DriveWrite,Vitesse d'écriture,Full name for drive write metric
-DriveWriteLabel,Ecriture,Short label for drive write metric
+DriveWriteLabel,Écriture,Short label for drive write metric
 ErrorPerformanceCounter,Your Performance Counter cache is corrupted. Click OK to visit the wiki and fix this error.,Text of the performance counter error
 ErrorTitle,Erreur de la Sidebar,Title of the error popup
 GPU,GPU,GPU monitor title
@@ -98,13 +98,13 @@ SettingsAlertFontColorTooltip,Couleur du texte d'alerte.,Settings alert font col
 SettingsAllCoreClocks,Afficher la fréquence de tous les cœurs,Settings all core clocks label
 SettingsAllCoreClocksTooltip,Affiche la fréquence de tous les cœurs et non pas uniquement le premier.,Settings all core clocks tooltip
 SettingsAltTab,Afficher dans l' Alt + Tab,Settings alt tab label
-SettingsAltTabTooltip,Afficher la sidebar en effectuant un Alt + Tab,Settings alt tab tooltip
+SettingsAltTabTooltip,Affiche la Sidebar en effectuant un Alt + Tab,Settings alt tab tooltip
 SettingsAlwaysOnTop,Toujours au dessus,Settings always on top label
-SettingsAlwaysOnTopTooltip,Mettre la sidebar toujours au-dessus des autres fenêtres.,Settings always on top tooltip
+SettingsAlwaysOnTopTooltip,Met la Sidebar toujours au-dessus des autres fenêtres.,Settings always on top tooltip
 SettingsAutoBackground,Couleur de fond automatique,Settings auto background label
 SettingsAutoBackgroundTooltip,Définit la couleur de fond selon les paramètres de couleur de Windows,Settings auto background tooltip
 SettingsAutoUpdate,Mise à jour Auto,Settings auto update label
-SettingsAutoUpdateTooltip,Mise à jour automatique de l'application,Settings auto update tooltip
+SettingsAutoUpdateTooltip,Met à jour l'application automatiquement,Settings auto update tooltip
 SettingsBackgroundColor,Couleur de fond,Settings background color label
 SettingsBackgroundColorTooltip,Couleur de fond,Settings background color tooltip
 SettingsBackgroundOpacity,Transparence du fond,Settings background opacity label
@@ -123,11 +123,11 @@ SettingsCustomizeTab,Personnaliser,Title of the settings customize tab
 SettingsDateFormat,Format de la date,Settings date format label
 SettingsDateFormatDisabled,Désactivé,Settings date format disabled value
 SettingsDateFormatTooltip,Format de la date sous l'heure. ,Settings date format tooltip
-SettingsDock,Encrage,Dock settings label
+SettingsDock,Ancrage,Dock settings label
 SettingsDockBottom,Bas,Dock bottom settings label
 SettingsDockLeft,Gauche,Dock left settings label
 SettingsDockRight,Droite,Dock right settings label
-SettingsDockTooltip,Sur quelle côté la sidebar doit se positionner.,Dock settings tooltip
+SettingsDockTooltip,Coté sur lequel la Sidebar doit se positionner.,Dock settings tooltip
 SettingsDockTop,Haut,Dock top settings label
 SettingsDriveDetailsTooltip,Affiche les détails supplémentaires des disques durs sous forme de texte.,Settings drive details tooltip
 SettingsFontColor,Couleur de la police,Settings font color label
@@ -140,45 +140,45 @@ SettingsHardwareColumn2,Matériel,Settings hardware data grid hardware column he
 SettingsHardwareEnabledTooltip,Activer ce matériel. (Double cliquez pour changer. Bug connu.),Settings hardware enabled checkbox tooltip
 SettingsHardwareNameTooltip,Editer le nom de ce matériel. ,Settings hardware name tooltip
 SettingsHorizontalOffset,Décalage horizontal,Horizontal offset settings label
-SettingsHorizontalOffsetTooltip,Décallage honrizontal de la sidebar,Horizontal offset settings tooltip
+SettingsHorizontalOffsetTooltip,Décalage horizontal de la Sidebar,Horizontal offset settings tooltip
 SettingsHotkeyClose,Fermer,Settings hotkey close label
 SettingsHotkeyCycleEdge,Changer de bord,Settings hotkey switch edge
 SettingsHotkeyCycleScreen,Changer d'écran,Settings hotkey switch screen
 SettingsHotkeyHide,Cacher,Settings hotkey hide label
 SettingsHotkeyReload,Recharger,Settings hotkey reload label
 SettingsHotkeyShow,Afficher,Settings hotkey show label
-SettingsHotkeysTab,Raccourics,Title of the settings hotkeys tab
+SettingsHotkeysTab,Raccourcis,Title of the settings hotkeys tab
 SettingsHotkeyToggle,Bascule,Settings hotkey toggle label
 SettingsLanguage,Langue,Settings language label
 SettingsLanguageDefault,Défaut,Settings language default label
 SettingsLanguageTooltip,Langue actuelle de l'application.,Settings language tooltip
 SettingsMetrics,Métriques: ,Settings metrics label with colon
-SettingsMetricsTooltip,Activer ou désactiver des m‚triques sp‚cifiques.,Settings metrics tooltip
+SettingsMetricsTooltip,Active ou désactive des métriques spécifiques.,Settings metrics tooltip
 SettingsMonitorEnabledTooltip,Activer ce moniteur,Settings monitor enabled checkbox tooltip
 SettingsMonitorsColumn1,Activé,Settings monitors data grid enabled column header
 SettingsMonitorsColumn2,Moniteur,Settings monitors data grid monitor column header
 SettingsMonitorsSubtitle1,Cliquez sur un ligne pour éditer ses réglages.,Settings monitors subtitle line one
-SettingsMonitorsSubtitle2,Déplacer une ligne pour changer son ordre.,Settings monitors subtitle line two
+SettingsMonitorsSubtitle2,Déplacez une ligne pour changer son ordre.,Settings monitors subtitle line two
 SettingsMonitorsTab,Moniteurs,Title of the settings monitors tab
-SettingsPollingInterval,Interval de rafraichissement. ,Settings polling interval label
+SettingsPollingInterval,Intervalle de rafraichissement. ,Settings polling interval label
 SettingsPollingIntervalTooltip,Durée entre l'interrogation des données en millisecondes.,Settings polling interval tooltip
 SettingsReserveSpace,Espace réservé,Settings reserve space label
-SettingsReserveSpaceTooltip,Réserve d'espace dans le zone de travail pour la sidebar.,Settings reserve space tooltip
+SettingsReserveSpaceTooltip,Réserve d'espace dans le zone de travail pour la Sidebar.,Settings reserve space tooltip
 SettingsRoundAllDecimals,Arrondir toutes les décimales,Settings round all decimals label
 SettingsRoundAllDecimalsTooltip,Arrondit toutes les valeurs décimales à l'entier le plus proche.,Settings round all decimals tooltip
 SettingsRunAtStartup,Lancer au démarrage. ,Settings run at startup label
 SettingsRunAtStartupTooltip,Exécute l'application quand vous vous connectez.,Settings run at startup tooltip
-SettingsScreen,Ecran,Screen settings label
-SettingsScreenTooltip,Ecran sur lequel la sidebar sera affichée.,Screen settings tooltip
+SettingsScreen,Écran,Screen settings label
+SettingsScreenTooltip,Écran sur lequel la Sidebar sera affichée.,Screen settings tooltip
 SettingsShowClock,Afficher l'heure,Settings show clock label
 SettingsShowClockTooltip,Affiche l'heure.,Settings show clock tooltip
 SettingsShowDriveDetails,Afficher les détails des disques durs.,Settings show drive details label
 SettingsShowDriveIO,Afficher l'I/O du disque,Settings show drive IO label
 SettingsShowDriveIOTooltip,Affiche les vitesses d'écriture et de lecture du disque si l'option détails des disques est activée.,Settings show drive IO tooltip
 SettingsShowDriveSpace,Afficher l'espace disque,Settings show drive space label
-SettingsShowDriveSpaceTooltip,"Afficher le pourcentage de charge, l'espace occupé et l'espace libre si l'option détails des disques est activée.",Settings show drive space tooltip
+SettingsShowDriveSpaceTooltip,"Affiche le pourcentage de charge, l'espace occupé et l'espace libre si l'option détails des disques est activée.",Settings show drive space tooltip
 SettingsShowHardwareNames,Afficher les noms des matériels,Settings show hardware names label
-SettingsShowHardwareNamesTooltip,Afficher les noms des matériels.,Settings show hardware names tooltip
+SettingsShowHardwareNamesTooltip,Affiche les noms des matériels.,Settings show hardware names tooltip
 SettingsShowTrayIcon,Afficher l'icône dans la barre de tâches,Settings show tray icon label
 SettingsShowTrayIconTooltip,Affiche l'icône dans la barre de tâches. Ceci est parfois requis.,Settings show tray icon tooltip
 SettingsSidebarWidth,Largeur de la Sidebar,Settings sidebar width label
@@ -190,30 +190,30 @@ SettingsTextAlignLeft,Gauche,Settings text align left value
 SettingsTextAlignRight,Droite,Settings text align right value
 SettingsTextAlignTooltip,Alignement métrique du texte.,Settings text align tooltip
 SettingsTitle,Réglages Sidebar,Title of the settings window
-SettingsUIScale,Echelle de l'UI,Settings UI scale label
-SettingsUIScaleTooltip,Echelle de toutes les fenêtres et composants.,Settings UI scale tooltip
-SettingsUseBytesPerSecond,Utiliser Bytes par seconde,Settings use bytes per second label
-SettingsUseBytesPerSecondTooltip,Affiche la bande passante en Bytes par seconde au lieu de l'octet par seconde.,Settings use bytes per second tooltip
+SettingsUIScale,Échelle de l'interface utilisateur,Settings UI scale label
+SettingsUIScaleTooltip,Échelle de toutes les fenêtres et composants.,Settings UI scale tooltip
+SettingsUseBytesPerSecond,Utiliser les byte par seconde,Settings use bytes per second label
+SettingsUseBytesPerSecondTooltip,Affiche la bande passante en byte par seconde au lieu d'octet par seconde.,Settings use bytes per second tooltip
 SettingsUsedSpaceAlert,Alerte d'espace utilisé,Settings used space alert label
 SettingsUsedSpaceAlertTooltip,Seuil en pourcentage d'espace utilisé qui va générer une alerte. Mettez 0 pour désactiver.,Settings used space alert tooltip
-SettingsUseFahrenheit,Utiliser le Degré Fahrenheit,Settings use fahrenheit label
-SettingsUseFahrenheitTooltip,Les températures des sondes et alarmes seront en Fahrenheit au lieu des Celsius.,Settings use fahrenheit tooltip
+SettingsUseFahrenheit,Utiliser le degré ° Fahrenheit,Settings use fahrenheit label
+SettingsUseFahrenheitTooltip,Affiche les températures des sondes et alarmes en ° Fahrenheit au lieu de ° Celsius.,Settings use fahrenheit tooltip
 SettingsUseGHz,Utiliser le GHz,Settings use GHz label
-SettingsUseGHzTooltip,Les fréquences vont être en Ghz au lieu des Mhz.,Settings use GHz tooltip
+SettingsUseGHzTooltip,Affiche les fréquences en GHz au lieu de MHz.,Settings use GHz tooltip
 SettingsVerticalOffset,Décalage vertical,Vertical offset settings label
-SettingsVerticalOffsetTooltip,Décalage vertical de la sidebar.,Vertical Offset settings tooltip
-SetupCustomSubtitle,Utilisez les curseurs et les zones de texte pour déplacer la sidebar à la position correcte.,Subtitle of the custom setup page
+SettingsVerticalOffsetTooltip,Décalage vertical de la Sidebar.,Vertical Offset settings tooltip
+SetupCustomSubtitle,Utilisez les curseurs et/ou les zones de texte pour positionner la Sidebar comme souhaité.,Subtitle of the custom setup page
 SetupCustomTitle,Personnalisé,Title of the custom setup page
-SetupDoneSubtitle,"Si vous souhaitez personnaliser la sidebar, cliquez sur le bouton Réglages.",Subtitle of the setup done page
-SetupDoneText,Vous pouvez également accéder aux réglages via l'icônes en haut à droite de la sidebar ou via l'icône dans la barre de tâches.,Text of the setup done page
+SetupDoneSubtitle,"Si vous souhaitez personnaliser la Sidebar, cliquez sur le bouton Réglages.",Subtitle of the setup done page
+SetupDoneText,Vous pouvez également accéder aux réglages via l'icône en haut à droite de la Sidebar ou via l'icône dans la barre de tâches.,Text of the setup done page
 SetupDoneTitle,Effectué !,Title of the setup done page
-SetupSubtitle,Ceci est une configuration rapide pour avoir la sidebar dans la position correcte. ,Subtitle of the initial setup page
-SetupText,Est-ce que la sidebar est visible et ancrée sur le bord droit de votre écran principal ?,Text of the initial setup page
+SetupSubtitle,Ceci est une configuration rapide pour avoir la Sidebar dans la position correcte. ,Subtitle of the initial setup page
+SetupText,La Sidebar est-elle visible et ancrée sur le bord droit de votre écran principal ?,Text of the initial setup page
 SetupTitle,Configuration initiale,Title of the initial setup page
 Sidebar,Sidebar,Title of the sidebar window
 Time,Heure,Sidebar clock title
 UpdateErrorFatalText,Une erreur fatale est survenue lors de la tentative de mise à jour. La mise à jour automatique est maintenant désactivée.,Fatal text of the update error popup
 UpdateErrorText,Mise à jour impossible. Vérifiez votre connexion internet.,Text of the update error popup
 UpdateErrorTitle,Erreur de mise à jour.,Title of the update error popup
-UpdateSuccessText,Vous avez la dernière version,Text of the update success popup
+UpdateSuccessText,Vous avez la dernière version.,Text of the update success popup
 UpdateTitle,Mise à jour,Title of the update window
